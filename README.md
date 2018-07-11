@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Intro
 
-You can use the [editor on GitHub](https://github.com/DatosAru/DatosAru.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My personal blog, built with Jekyll and Github page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# If you want to use this theme
 
-### Markdown
+1. fork it
+2. **Important**: If you want to use [Baidu Statistics][baiduTongji] functionality, remember to replace the content of `/javascripts/baidu_statistics.js` with your own. If you don't want to use it or don't understand what I'm talking about, just comment out line 43 of `/_includes/footer.html`. 
+3. **Important**: If you want to use the [Disqus][disqus] (comment system) functionality, remember to replace the content of `/_includes/disqus_load.html` and `/_includes/disqus_count.html` with your own content. If you don't want to use it or don't understand what I'm talking about, just comment out line 27 in `/_layouts/markdownreader_bare.html` and line 35 in `/_layouts/post.html`.
+4. Modify `/_config.yml` with your own info, replace `/images/me.png` with your own.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+That's it
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DatosAru/DatosAru.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[baiduTongji]: http://tongji.baidu.com/web/welcome/login
+[disqus]: https://disqus.com/
