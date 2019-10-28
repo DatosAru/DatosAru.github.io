@@ -5,7 +5,7 @@ title: ##javascript 用群指南
 
 ##群信息
 
-- 名称: 
+- 名称: ##Javascript(487247839)
 - <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=5705b77f50b97c169bd50554c8c68c9888d184f4f0c97128a9875d1239a0d685"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="##Javascript" title="##Javascript"></a>
 - 创建日期: 2015-08-30
 - 群主: UniFreak &lt;<fanghao90s@gmail.com>&gt;(744910240)
