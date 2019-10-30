@@ -172,7 +172,6 @@ Se crearon tres aplicaciónes de entrada de datos en su forma CAPI,
 con los siguentes nombres:
 
 - "CentroEducativoUnicef"
-- "LpValle"
 - "CentroSaludUnicef"
 - "CentroInfantilUnicef"
 
