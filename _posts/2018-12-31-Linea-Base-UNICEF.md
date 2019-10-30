@@ -158,7 +158,7 @@ indicadores que son objeto de la consultoría.
 
 ## Proceso de datos
 
-__Consistencia:__ Árbol lógico de programación y consistencia en la aplicación..
+__Consistencia:__ Árbol lógico de programación y consistencia en la aplicación.
 
 __Transmisión__: En línea vía internet y respaldo Backup del dispositivo (tablet).
 
@@ -223,6 +223,10 @@ Adicionalmente a los documentos citados, se encuentran otros materiales del proy
    1. "Encuesta_centros_educativos"
    2. "Encuesta_centros_infnatiles"
    3. "Encuesta_centros_salud"
+-  Guías de Entrevistas 
+   1. ENTREVISTA A AUTORIDADES DEPARTAMENTALES 
+   2. ENTREVISTA A AUTORIDADES MUNICIPALES 
+   3. ENTREVISTA A AUTORIDADES DISTRITALES DE EDUCACIÓN 
 - Diapositivas para capacitación "Presentación"
 - Protocolo de recolección "Protocolo_Recoleccion"
 
