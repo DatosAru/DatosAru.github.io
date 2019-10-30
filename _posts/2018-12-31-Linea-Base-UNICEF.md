@@ -17,7 +17,7 @@ excerpt: "El presente documento presenta los procesos y pasos seguidos
 
 - __País: Bolivia.__
 
-- __Fuente:La Paz, Cochabamba, Santa Cruz y Pando.__
+- __Fuente: La Paz, Cochabamba, Santa Cruz y Pando.__
 
 - __Patrocinador(es): Fondo de las Naciones Unidas para la Infancia UNICEF.__
 
@@ -109,11 +109,12 @@ adecuada para realizar el cálculo de los indicadores:
 
 ## Recolección de datos
 
-__Tipo de operativo:__ Operativo de recolección mixta
-- 1. Descarga de Información de Portales Oficiales
-- 2. Solicitud de información a autoridades y/o unidades específicas
-- 3. Encuestas por muestreo 
-- 4. Entrevistas .
+__Tipo de operativo:__  Operativo de recolección mixta
+
+-  Descarga de Información de Portales Oficiales
+-  Solicitud de información a autoridades y/o unidades específicas
+-  Encuestas por muestreo 
+-  Entrevistas.
 
 __Población Objetivo:__ Autoridades Departamentales, Autoridades 
 Municipañes, Directores y estudiantes de Unidades Educativas, 
@@ -193,7 +194,7 @@ La evaluación de datos se da por:
 2. Incidencias capturadas durante el operativo de campo
 3. Tablas descriptivas(frecuencias) de las variables de interés
 4. Estadísticos resumen de las variables de interés
-5. Disponibilidad de Información
+5. Disponibilidad de la Información solicitada
 
 La evaluación de los datos se dio, en la etapa de crítica de los cuestionarios, transcripción de entrevistas, recepción
 de la información solicitada, es decir durante toda la etapa de recolección de datos, hasta el último día del
@@ -220,20 +221,20 @@ Los documentos técnicos generados del proyecto son:
 Adicionalmente a los documentos citados, se encuentran otros materiales del proyecto:
 
 - Cuestionario 
-   1. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LAPAZ - PAPA"
-   2. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LA PAZ VALLES"
-   3. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS POTOSÍ - HABA"
+   1. "Encuesta_centros_educativos"
+   2. "Encuesta_centros_infnatiles"
+   3. "Encuesta_centros_salud"
    4. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS ORURO - QUINUA"
-- Material de Capacitación( presentaciones, manuales) 
-- Material para operativo de campo(convocatorias, planillas, cronogramas)
- 
+- Diapositivas para capacitación "Presentacion"
+- Protocolo de recoleccion "Protocolo_Recoleccion"
+
 # Base de Datos
 
 ## Política de Acceso
 
 - __Autorización acceso__
 
-Fundación SWISSCONTACT, Funadación PROFIN, Fundación ARU
+UNICEF - Fundación ARU
 
 - __Contactos__
 
@@ -246,31 +247,30 @@ no se cuenta con la autorización de la entidad contratante.
 
 - __Condiciones de Acceso__
 
-La base de datos esta disponible casi totalmente a excepción de la variables que contienen dirección y
-nombre de las personas registradas en la encuesta; con una solicitud digital dirigida a administracion@aru.org.bo explicando los motivos
+La base de datos esta disponible previa solicitud digital dirigida a administracion@aru.org.bo explicando los motivos
 
 - __Requisitos de cita__
 
-Queda prohibida la copia o reproducción de los datos en cualquier medio electronico (redes,
-bases de datos, cd rom, diskettes) que permita la disponibilidad de esta información a múltiples
-usuarios sin el previo visto bueno de las Fundaciones SWISSCONTACT, PROFIN y ARU.
+Se autoriza el uso de la información contenida en este portal previo 
+visto bueno de Fundación ARU y UNICEF.
 
 - __Derechos y responsabilidades__
 
-Fundación ARU - Unidad de Microdatos y Encuestas 2019, Fundación SWISSCONTACT y Funadacion PROFIN.
+Fundación ARU - Unidad de Microdatos y Encuestas 2019, UNICEF.
 
 
 ## Archivo de datos
 
 Las bases de datos disponibles de este proyecto son:
-- "BaseHabaCompleta_v1"
-- "BaseQuinuaCompleta_v1"
-- "BasePapaCompleta_v1"
-- "BaseValleCompleta_v1"
-- "CostosHaba_vf1"
-- "CostosQuinua_vf1"
-- "CostosPapa_vf1"
-- "CostosValle_vf1"
+- "CentroEducativo_vf10"
+- "CentroSalud_vf6"
+- "CentroSalud_vf6"
+- "UnidadesEducativas_armon"
+- "Salud_armon"
+- "DIPI_armon"
+- INFORMACION_PROCESADA - Carpeta que contiene las bases de datos de fuentes secundarias obtenidos
+a través de descargas de portales oficiales y las notas de solicitud de información a entidades y autoridades
+especificas.
 
 ## Grupo de variables
 
