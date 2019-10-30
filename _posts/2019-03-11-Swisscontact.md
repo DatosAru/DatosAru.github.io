@@ -175,10 +175,10 @@ Los documentos técnicos generados del proyecto son:
 Adicionalmente a los documentos citados, se encuentran otros materiales del proyecto:
 
 - Cuestionario 
-  &nbsp; 1. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LAPAZ - PAPA"
-  &nbsp; 2. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LA PAZ VALLES"
-  &nbsp; 3. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS POTOSÍ - HABA"
-  &nbsp; 4. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS ORURO - QUINUA"
+   1. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LAPAZ - PAPA"
+   2. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LA PAZ VALLES"
+   3. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS POTOSÍ - HABA"
+   4. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS ORURO - QUINUA"
 - Material de Capacitación( presentaciones, manuales) 
 - Material para operativo de campo(convocatorias, planillas, cronogramas)
  
