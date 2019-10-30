@@ -26,7 +26,7 @@ excerpt: "El presente documento presenta los procesos y pasos seguidos
 
 ## Diseño de Instrumentos
 
-La metodología diseñada para el estudio se desarrollaro en función a:
+La metodología diseñada para el estudio se desarrolló en función a:
 
 - Estrategia de recolección de información
 - Diseño de los cuestionarios, definición de preguntas y secciones.
@@ -35,7 +35,7 @@ La metodología diseñada para el estudio se desarrollaro en función a:
 - Preparación de notas de solicitud de información.
 - Cronograma de operativo de campo.
 - Procesamiento de la información.
-- Cálculo y análisis de los indicadores de la Linea Base.
+- Cálculo y análisis de los indicadores de la Línea Base.
 
 
 ## Desarrollo y Participación ciudadana
@@ -117,7 +117,7 @@ __Tipo de operativo:__  Operativo de recolección mixta
 -  Entrevistas.
 
 __Población Objetivo:__ Autoridades Departamentales, Autoridades 
-Municipañes, Directores y estudiantes de Unidades Educativas, 
+Municipales, Directores y estudiantes de Unidades Educativas, 
 Directores o responsables de Centros de Salud y Directores o 
 responsables de Centros Infantiles.
 
@@ -127,7 +127,7 @@ Cruz de la Sierra y Montero).
 
 __Cobertura temporal:__ Septiembre a Diciembre de 2018.
 
-__Cobertura temática:__ Indicadors de la Línea Base del Programa de Cooperación de UNICEF en Bolivia 2018-
+__Cobertura temática:__ Indicadores de la Línea Base del Programa de Cooperación de UNICEF en Bolivia 2018-
 2022, definido por cuatro resultados: 
 - (i) Todos los niños sobreviven y prosperan
 - (ii) Todos los niños aprenden y desarrollan sus proyectos de vida
@@ -168,8 +168,8 @@ __Validación:__ Depuración - consolidación de la base (validación interna) y
 __Transcripción:__ El sistema del proyecto UNICEF engloba la 
 transmisión de información desde el cuestionario transcrito hasta el 
 SERVIDOR de la FUNDACION usando el DROPBOX como canal.
-Se crearon tres aplicaciónes de entrada de datos en su forma CAPI, 
-con los siguentes nombres:
+Se crearon tres aplicaciones de entrada de datos en su forma CAPI, 
+con los siguientes nombres:
 
 - "CentroEducativoUnicef"
 - "CentroSaludUnicef"
@@ -189,7 +189,7 @@ clasifican en 4 grupos:
 
 La evaluación de datos se da por:
 
-1. Reportes diarios del avance en la recoleccion de información
+1. Reportes diarios del avance en la recolección de información
 2. Incidencias capturadas durante el operativo de campo
 3. Tablas descriptivas(frecuencias) de las variables de interés
 4. Estadísticos resumen de las variables de interés
@@ -223,9 +223,8 @@ Adicionalmente a los documentos citados, se encuentran otros materiales del proy
    1. "Encuesta_centros_educativos"
    2. "Encuesta_centros_infnatiles"
    3. "Encuesta_centros_salud"
-   4. "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS ORURO - QUINUA"
-- Diapositivas para capacitación "Presentacion"
-- Protocolo de recoleccion "Protocolo_Recoleccion"
+- Diapositivas para capacitación "Presentación"
+- Protocolo de recolección "Protocolo_Recoleccion"
 
 # Base de Datos
 
@@ -239,14 +238,14 @@ UNICEF - Fundación ARU
 
 Administración: administracion@aru.org.bo - Unidad de micro datos y encuestas udata@aru.org.bo
 
-- __Cofidencialidad__
+- __Confidencialidad__
 
-La base de datos, no podra darse a conocer al público ni a las entidades u organismos, si
+La base de datos, no podrá darse a conocer al público ni a las entidades u organismos, si
 no se cuenta con la autorización de la entidad contratante.
 
 - __Condiciones de Acceso__
 
-La base de datos esta disponible previa solicitud digital dirigida a administracion@aru.org.bo explicando los motivos
+La base de datos está disponible previa solicitud digital dirigida a administracion@aru.org.bo explicando los motivos
 
 - __Requisitos de cita__
 
@@ -269,7 +268,7 @@ Las bases de datos disponibles de este proyecto son:
 - "DIPI_armon"
 - INFORMACION_PROCESADA - Carpeta que contiene las bases de datos de fuentes secundarias obtenidos
 a través de descargas de portales oficiales y las notas de solicitud de información a entidades y autoridades
-especificas.
+específicas.
 
 ## Grupo de variables
 
