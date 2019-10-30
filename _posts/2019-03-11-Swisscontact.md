@@ -31,11 +31,11 @@ La metodología diseñada para el estudio se desarrollaron en función a:
 
 - La consolidación de los indicadores clave del estudio.
 - Propuesta del diseño para la selección muestral.
-- Cronograma de operativo para operativo de campo.
+- Cronograma de operativo de campo.
 - Diseño del cuestionario, definición de preguntas y secciones.
 - Estrategia de recolección de información
-- El procesamiento de la información.
-- Finalmente el cálculo y análisis de los indicadores de interés.
+- Procesamiento de la información.
+- Cálculo y análisis de los indicadores de interés.
 
 
 ## Desarrollo y Participación ciudadana
@@ -166,19 +166,19 @@ información recolectada.
 
 Los documentos técnicos generados del proyecto son:
 
-- "Base de Datos" Producto 3
-- "Informe del Estudio de Costos por rubro/territorio" Producto 4
-- ""Informe Final Contextualizado" Producto 6
+- "Base de Datos" - Producto 3
+- "Informe del Estudio de Costos por rubro/territorio" - Producto 4
+- "Informe Final Contextualizado" - Producto 6
 
 ## Otros Materiales
 
 Adicionalmente a los documentos citados, se encuentran otros materiales del proyecto:
 
 - Cuestionario ”Tarija_v1”
- - "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LAPAZ - PAPA"
- - "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LA PAZ VALLES"
- - "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS POTOSÍ - HABA"
- - "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS ORURO - QUINUA"
+  &nbsp; - "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LAPAZ - PAPA"
+  &nbsp; - "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS LA PAZ VALLES"
+  &nbsp; - "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS POTOSÍ - HABA"
+  &nbsp; - "LINEA BASE: PROYECTO MERCADOS INCLUSIVOS ORURO - QUINUA"
 - Material de Capacitación( presentaciones, manuales) 
 - Material para operativo de campo(convocatorias, planillas, cronogramas)
  
