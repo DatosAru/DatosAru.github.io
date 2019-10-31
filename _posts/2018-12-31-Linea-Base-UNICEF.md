@@ -266,7 +266,7 @@ Fundación ARU - Unidad de Microdatos y Encuestas 2019, UNICEF.
 Las bases de datos disponibles de este proyecto son:
 - "CentroEducativo_vf10"
 - "CentroSalud_vf6"
-- "CentroSalud_vf6"
+- "CentroInfantil_vf6"
 - "UnidadesEducativas_armon"
 - "Salud_armon"
 - "DIPI_armon"
