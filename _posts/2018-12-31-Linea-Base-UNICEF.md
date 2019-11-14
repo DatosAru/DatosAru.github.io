@@ -281,17 +281,17 @@ Variables de tipo cuantitativa, contenidas en el diccionario de la base de datos
 # Cuestionario del Proyecto
 
 
-<a href="/pdf/fichas/LB_UNICEF_UE.pdf" download="Cuestionario_UNICEF_UE.pdf" style="color:#182b4b;"> Descargar Cuestionario UE <i class="fa fa-file-pdf-o"></i></a>
-<br> </br>
-<a href="/pdf/fichas/LB_UNICEF_CS.pdf" download="Cuestionario_UNICEF_CS.pdf" style="color:#182b4b;"> Descargar Cuestionario CS <i class="fa fa-file-pdf-o"></i></a>
-<br> </br>
-<a href="/pdf/fichas/LB_UNICEF_CI.pdf" download="Cuestionario_UNICEF_CI.pdf" style="color:#182b4b;"> Descargar Cuestionario CI <i class="fa fa-file-pdf-o"></i></a>
-<br> </br>
-<a href="/pdf/fichas/LB_UNICEF_GE_GAD.pdf" download="Cuestionario_UNICEF_GE_GAD.pdf" style="color:#182b4b;"> Descargar Guia de Entrevistas GAD <i class="fa fa-file-pdf-o"></i></a>
-<br> </br>
-<a href="/pdf/fichas/LB_UNICEF_GE_GAM.pdf" download="Cuestionario_UNICEF_GE_GAM.pdf" style="color:#182b4b;"> Descargar Guia de Entrevistas GAM <i class="fa fa-file-pdf-o"></i></a>
-<br> </br>
-<a href="/pdf/fichas/LB_UNICEF_GE_E.pdf" download="Cuestionario_UNICEF_GE_E.pdf" style="color:#182b4b;"> Descargar Guia de Entrevistas E <i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/LB_UNICEF_UE.pdf" download="Cuestionario_UNICEF_UE.pdf" style="color:#182b4b;"> Descargar Cuestionario UE <i class="fa fa-file-pdf-o"></i></a>
+<br> 
+<a href="/cuestionario/LB_UNICEF_CS.pdf" download="Cuestionario_UNICEF_CS.pdf" style="color:#182b4b;"> Descargar Cuestionario CS <i class="fa fa-file-pdf-o"></i></a>
+<br> 
+<a href="/cuestionario/LB_UNICEF_CI.pdf" download="Cuestionario_UNICEF_CI.pdf" style="color:#182b4b;"> Descargar Cuestionario CI <i class="fa fa-file-pdf-o"></i></a>
+<br> 
+<a href="/cuestionario/LB_UNICEF_GE_GAD.pdf" download="Cuestionario_UNICEF_GE_GAD.pdf" style="color:#182b4b;"> Descargar Guia de Entrevistas GAD <i class="fa fa-file-pdf-o"></i></a>
+<br> 
+<a href="/cuestionario/LB_UNICEF_GE_GAM.pdf" download="Cuestionario_UNICEF_GE_GAM.pdf" style="color:#182b4b;"> Descargar Guia de Entrevistas GAM <i class="fa fa-file-pdf-o"></i></a>
+<br> 
+<a href="/cuestionario/LB_UNICEF_GE_E.pdf" download="Cuestionario_UNICEF_GE_E.pdf" style="color:#182b4b;"> Descargar Guia de Entrevistas E <i class="fa fa-file-pdf-o"></i></a>
 
 
 
