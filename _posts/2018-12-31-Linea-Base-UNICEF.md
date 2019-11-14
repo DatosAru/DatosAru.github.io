@@ -280,7 +280,6 @@ Variables de tipo cuantitativa, contenidas en el diccionario de la base de datos
 
 # Cuestionario del Proyecto
 
-
 <a href="/cuestionario/LB_UNICEF_UE.pdf" download="Cuestionario_UNICEF_UE.pdf" style="color:#182b4b;"> Descargar Cuestionario UE <i class="fa fa-file-pdf-o"></i></a>
 <br> 
 <a href="/cuestionario/LB_UNICEF_CS.pdf" download="Cuestionario_UNICEF_CS.pdf" style="color:#182b4b;"> Descargar Cuestionario CS <i class="fa fa-file-pdf-o"></i></a>
