@@ -277,3 +277,10 @@ específicas.
 ## Grupo de variables
 
 Variables de tipo cuantitativa, contenidas en el diccionario de la base de datos.
+
+# Cuestionario del Proyecto
+
+<font size=5>
+<a href="/pdf/fichas/LB_UNICEF_UE.pdf" download="Cuestionario_UNICEF_UE.pdf" style="color:#182b4b;"> Descargar Cuestionario UE <i class="fa fa-file-pdf-o"></i></a>
+<a href="/pdf/fichas/LB_UNICEF_CS.pdf" download="Cuestionario_UNICEF_CS.pdf" style="color:#182b4b;"> Descargar Cuestionario CS <i class="fa fa-file-pdf-o"></i></a>
+</font>
