@@ -1,5 +1,5 @@
 ---
-title: "Estudio al programa Yo si Puedo"
+title: "Encuesta de Evaluación al Programa Nacional de Alfabetización Yo Si Puedo - Bolivian Campaign for Education right CBDE."
 layout: post
 category: Encuesta
 tags: [Programa, Alfabetización]
