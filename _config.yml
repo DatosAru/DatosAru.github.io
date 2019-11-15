@@ -14,6 +14,7 @@ paginate: 7
 paginate_path: "page:num"
 layout: post
 permalink: /:categories/:title
+permalink: /:categories1/:title
 excerpt_separator: "[-----]"
 
 # mode: dev

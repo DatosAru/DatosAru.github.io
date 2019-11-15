@@ -13,6 +13,19 @@
     {% endfor %}
 {% endif %}
 
+{% if paginator %}
+    {% for post1 in paginator.posts %}
+        {% include post_list_item.html %}
+    {% endfor %}
+{% else %}
+    {% for post1 in include.posts %}
+        {% if post1.tags1 or post.category %}
+            {% include post_list_item.html %}
+            {% assign displayPagi = true %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
 {% if displayPagi or paginator %}
 <div class="row" id="paginator">
     {% if paginator.total_pages > 1 %}
