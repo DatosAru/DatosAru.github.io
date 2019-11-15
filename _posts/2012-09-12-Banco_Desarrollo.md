@@ -1,5 +1,5 @@
 ---
-title: "Linea Base del Banco de Desarrollo Productivo"
+title: "Evaluación de Impacto al Crédito Productivo Individual CPI(2012) - Banco de Desarrollo Productivo BDP."
 layout: post
 category: Encuesta
 tags: [Crédito, Programa, Mypes]

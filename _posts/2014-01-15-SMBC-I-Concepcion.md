@@ -1,5 +1,5 @@
 ---
-title: "Sistema de Monitoreo Basado en la Comunidad - Concepción, Comunidad-i"
+title: "Sistema de Monitoreo Basado en la Comunidad en Bolivia CBMS (Comunidad-i, Concepción) - Partnership for economic Policy PEP ASIA"
 layout: post
 category: [Censo]
 tags: [Comunidad, Pobreza]

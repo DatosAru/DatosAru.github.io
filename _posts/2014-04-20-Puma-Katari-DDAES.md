@@ -1,5 +1,5 @@
 ---
-title: "Diseño, Desarrollo y Análisis de Encuestas Sociales - Puma Katari"
+title: "Diseño, Desarrollo y Análisis de Encuestas Sociales (Puma Katari) - Instituto de Investigaciones Sociológicas Mauricio Lefebvre (IDIS-UMSA)"
 layout: post
 category: Encuesta
 tags: [Transporte, Social]
