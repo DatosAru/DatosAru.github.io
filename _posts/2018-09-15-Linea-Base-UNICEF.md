@@ -1,10 +1,12 @@
 ---
-title: "LINEA BASE DE INDICADORES - UNICEF"
+title: "Programa País para la Generación de Evidencias y Gestión de Conocimientos
+Sobre la Situación de la Niñez en Bolivia - Fondo de las Naciones
+Unidas para la Infancia UNICEF"
 layout: post
 category: Encuesta
 tags: [DIPI, Niños, Violencia]
 excerpt: "El presente documento presenta los procesos y pasos seguidos
- en el relevamiento de información del proyecto “Línea de Base UNICEF”,
+ en el relevamiento de información para la construcción de la “Línea de Base de Indicadores UNICEF”,
  que forma parte del Programa de País para el trabajo de UNICEF en 
  Bolivia, para el periodo 2018 – 2022 "
 

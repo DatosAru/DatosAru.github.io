@@ -1,5 +1,6 @@
 ---
-title: "Mercados Inclusivos - SWISSCONTACT"
+title: "Levantamiento de Línea de Base del Proyecto Mercados Inclusivos
+- Fundación SWISSCONTACT"
 layout: post
 category: Encuesta
 tags: [UPF, Agropecuario, Empoderamiento]
