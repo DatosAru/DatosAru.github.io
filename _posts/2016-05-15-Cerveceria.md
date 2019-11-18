@@ -1,5 +1,5 @@
 ---
-title: "Encuesta a puntos de venta de CBN"
+title: "Encuesta a Puntos de Venta de la Cerveceria Boliviana Nacional - CBN"
 layout: post
 category: Encuesta
 tags: [Consumo, Ventas]
