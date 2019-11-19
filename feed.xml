@@ -22,7 +22,7 @@ layout: null
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
 
-        {% for tag1 in post.tags1 %}
+        {% for tag1 in post1.tags1 %}
         <category>{{ tag1 | xml_escape }}</category>
         {% endfor %}
 
