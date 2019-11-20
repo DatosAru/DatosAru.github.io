@@ -23,10 +23,6 @@ layout: base
                 {% assign cateIdx = cateIdx | plus: 1 %}
             {% endfor %}
 
-           {% for posts1 in category %}
-                {% include post1_list.html posts1=posts1 cateIdx=cateIdx %}
-                {% assign cateIdx = cateIdx | plus: 1 %}
-            {% endfor %}
         </section>
     {% endfor %}
 </div>

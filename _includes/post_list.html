@@ -11,11 +11,6 @@
             {% assign displayPagi = true %}
         {% endif %}
 
-        {% if post.tags1 or post.category %}
-            {% include post1_list_item.html %}
-            {% assign displayPagi = true %}
-        {% endif %}
-
     {% endfor %}
 {% endif %}
 
