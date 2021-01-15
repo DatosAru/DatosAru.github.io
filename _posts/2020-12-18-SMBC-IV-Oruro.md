@@ -1,5 +1,5 @@
 ---
-title: "Sistema de Monitoreo Basado en la Comunidad Comunidad-i, Municipios de Oruro"
+title: "Sistema de Monitoreo Basado en la Comunidad, Comunidad-i, Municipios de Oruro 2020"
 layout: post
 category: Censo
 tags: [Comunidad, Pobreza]
@@ -32,18 +32,26 @@ El diseño sigue un proceso organizado y metodológico que consta de las siguien
 
 - __Planificación del proyecto__ Preparación de materiales, consolidación de preguntas de la encuesta, generación
 del cronograma y capacitación del personal de campo.
+
 - __Sensibilización__ Informar y establecer un diálogo con las autoridades locales y habitantes acerca del
 proyecto. Formar mesas de diálogo con autoridades.
+
 - __Recolección de información__ El operativo visita todos los centros municipales por organización de las
 autoridades municipales y hogares de algunas comunidades para hacerles un cuestionario que toma
 aproximadamente 40 minutos.
+
 - __Procesamiento__ Se sistematiza el instrumento de captura y la información recolectada mediante cuestionarios
 digitales enlazados a un servidor de la Fundación.
+
 - __Validación__ Se realiza una verificación y validación de los datos en la base de datos y en campo.
+
 - __Gestión__ Se realizan cálculos de los indicadores clave.
+
 - __Formulación__ Se analizan los hallazgos.
+
 - __Integración de la información__ Se espera que las autoridades locales integren los resultados de la informaci
 ón para producir políticas locales.
+
 - __Difusión__ Los resultados del proyecto son expuestos a las autoridades gubernamentales y locales de los
 municipios.
 
@@ -103,7 +111,8 @@ __Encuesta Dirigida a Hogares__
 
 ## Recolección de datos
 
--Para la recolección de datos se dio uso de las siguientes etapas:
+Para la recolección de datos se dio uso de las siguientes etapas:
+
 -Reclutamiento.
 -Capacitación.
 -Organización de campo y funciones.
