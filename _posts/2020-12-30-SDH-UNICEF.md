@@ -211,18 +211,18 @@ __Plan de Trabajo en Campo__
 El operativo de campo, comenzó el miercoles 2 y termino el miercoles 23 de diciembre, dando el último día
 para volver a intentar con los números de teléfono con lo que no se pudo contactar en los días programados.
   
-| Objeto de Estudio |    Muestra    | Ejecutado |
-| ----------------- | ------------- |---------- |
-| COSMOL            | 10            | 8         |
-| ----------------- | ------------- |---------- |
-| Ureport           | 53            | 21        |
-| ----------------- | ------------- |---------- |
-| Defensoria        | 398           | 206       |
-| ----------------- | ------------- |---------- |
-| Webinar           | 327           | 177       |
-| ----------------- | ------------- |---------- |
-| Beneficiarios     | 379           | 218       |
-| ----------------- | ------------- |---------- |
+| Objeto de Estudio |    Muestra    | Ejecutado  |
+| ----------------- | :-----------: | :--------: |
+| COSMOL            | 10            | 8          |
+| ----------------- | :-----------: | :--------: |
+| Ureport           | 53            | 21         |
+| ----------------- | :-----------: | :--------: |
+| Defensoria        | 398           | 206        |
+| ----------------- | :-----------: | :--------: |
+| Webinar           | 327           | 177        |
+| ----------------- | :-----------: | :--------: |
+| Beneficiarios     | 379           | 218        |
+| ----------------- | :-----------: | :--------: |
 
 ## Proceso de datos
 
