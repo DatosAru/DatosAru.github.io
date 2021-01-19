@@ -1,7 +1,7 @@
 ---
 title: "Humanitarian Performance Monitoring UNICEF - BOLIVIA"
 layout: post
-category: Censo
+category: Encuesta
 tags: [Evaluación, Pandemia, UNICEF]
 excerpt: "En este documento se presenta la información del proyecto Humanitarian Performance Monitoring, que tiene por objetivo realizar un seguimiento y evaluación a todas las actividades realizadas
 por UNICEF durante la pandemia en Bolivia."
