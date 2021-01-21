@@ -316,7 +316,7 @@ Fundación ARU - Unidad de Microdatos y Encuestas 2020.
 
 ## Archivo de datos
 
-- Información disponible, a nivel agregado para uso con REDATAM.
+Información disponible, a pedido..
 
 ## Grupo de variables
 
