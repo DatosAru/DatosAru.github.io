@@ -112,13 +112,14 @@ __Encuesta Dirigida a Hogares__
 
 Para la recolección de datos se dio uso de las siguientes etapas:
 
--Reclutamiento.
--Capacitación.
--Organización de campo y funciones.
--Plan de trabajo en campo.
--Incidencias y contingencias de campo.
+- Reclutamiento.
+- Capacitación.
+- Organización de campo y funciones.
+- Plan de trabajo en campo.
+- Incidencias y contingencias de campo.
 
 __Reclutamiento__
+
 Del personal interesado, se selecciono a 9 encuestadores para trabajar de forma itinerante, según sea la
 convocatoria de las autoridades durante 3 semanas o para entrar a una comunidad el personal pertenecia al
 centro de Oruro y del municipio de Carangas.
@@ -143,7 +144,7 @@ __Carga de trabajo:__ 15 días de trabajo.
 
 __Tipo de trabajo:__ Remunerado.
 
-__Capacitación:__ 
+__Capacitación__ 
 
 Centrada en tres áreas 1)aprendizaje y manejo del cuestionario,
  2) manejo del sistema y cuestionario digital en dispositivos móviles 3) 
@@ -260,7 +261,7 @@ Fundación ARU - Unidad de Microdatos y Encuestas 2020.
 
 ## Archivo de datos
 
-- Información disponible, a nivel agregado para uso con REDATAM.
+Información disponible, a nivel agregado para uso con REDATAM.
 
 ## Grupo de variables
 
