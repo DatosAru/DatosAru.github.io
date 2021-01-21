@@ -175,7 +175,7 @@ __Validación:__ Depuración - consolidación de la base (validación interna) y
 
 *La transmisión en linea via internet de la información se hizo para la etapa de 
 empadronamiento, por el volumen de la información también se uso el backup de 
-los dispositivos para almacenar los datos.
+los dispositivos para almacenar los datos.*
 
 ## Indicadores del Proyecto
 
@@ -213,8 +213,8 @@ Los documentos técnicos generados del proyecto son:
 ## Otros Materiales
 
 Otros productos elaborados con el proyecto fueron:
-- 1. Plataforma en Redatam en línea.
-- 2. Plataforma en Redatam móvil.
+- Plataforma en Redatam en línea.
+- Plataforma en Redatam móvil.
  
 # Base de Datos
 

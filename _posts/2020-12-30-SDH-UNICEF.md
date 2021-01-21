@@ -23,8 +23,6 @@ monetarias .
 
 - __Patrocinador(es): UNICEF-BOLIVIA.__
 
-- __Instituciones Participantes: UNICEF-BOLIVIA, Aru Unidad de Datos.__
-
 
 ## Diseño de Instrumentos
 
@@ -33,31 +31,31 @@ llamadas telefónicas.
 
 El diseño sigue un proceso organizado y metodológico que consta de las siguientes partes :
 
-- __Planificación del proyecto__ Preparación de materiales,preparación del sistema, generación
+- __Planificación del proyecto en general:__ Preparación de materiales,preparación del sistema, generación
 del cronograma y capacitación del personal de campo.
 
-- __Sensibilización__ Informar y establecer un parametro de confianza a través de anuncios en la página de
+- __Sensibilización:__ Informar y establecer un parametro de confianza a través de anuncios en la página de
 la Fundación acerca del proyecto.
 
-- __Recolección de información__ Los encuestadores a través de llamadas realizaban una encuesta de 20
+- __Recolección de información:__ Los encuestadores a través de llamadas realizaban una encuesta de 20
 minutos.
 
-- __Procesamiento__ Se sistematiza el instrumento de captura y la información recolectada a través de
+- __Procesamiento:__ Se sistematiza el instrumento de captura y la información recolectada a través de
 cuestionarios digitales.
-- __Validación__ Se realiza una verificación y validación de los datos.
+- __Validación:__ Se realiza una verificación y validación de los datos.
 
-- __Gestión__ Se realizan cálculos de los indicadores clave.
+- __Gestión:__ Se realizan cálculos de los indicadores clave.
 
-- __Formulación__ Se analizan los hallazgos.
+- __Formulación:__ Se analizan los hallazgos.
 
-- __Integración de la información__ A través de la interacción del informante con el encuestador.
+- __Integración de la información:__ A través de la interacción del informante con el encuestador.
 
 
 ## Desarrollo y Participación ciudadana
 
 El operativo de campo se realizó a través de llamadas telefónicas con el llenado de cuestionarios digitales,
 realizados en KOBO enlazados a un servidor digital con sincronización de resultados con bases brutas. Se
-entrevisto a los informantes participes de los listados de UNICEF: Informantes que participaban en encuestas,
+entrevisto a los informantes participes de los listados de UNICEF; informantes que participaban en encuestas,
 participantes de talleres, beneficiarios de elementos de bioseguridad y beneficiarios de transferencias
 monetarias.
 
@@ -141,13 +139,14 @@ __Encuesta Dirigida a Beneficiarios de Transferencias Monetarias no Condicionada
 ## Recolección de datos
 
 Para la recolección de datos se dio uso de las siguientes etapas:
--Reclutamiento.
--Capacitación.
--Organización de campo y funciones.
--Plan de trabajo en campo.
--Incidencias y contingencias de campo.
+- Reclutamiento.
+- Capacitación.
+- Organización de campo y funciones.
+- Plan de trabajo en campo.
+- Incidencias y contingencias de campo.
 
 __Reclutamiento__
+
 Del personal interesado, se selecciono a 9 encuestadores para trabajar por 5 días, pero con los ajustes del
 listado por grupo este número se redujo a 8 encuestadores. Fueron seleccionadas 6 personas de la ciudad
 de La Paz y 2 personas de la ciudad de Tarija, siendo los temas a considerar: experiencia en recolección
@@ -173,7 +172,7 @@ __Carga de trabajo:__ 30 úmeros de teléfono
 
 __Tipo de trabajo:__ Remunerado.
 
-__Capacitación:__ Centrada en tres áreas 1)aprendizaje y manejo del cuestionario, 2) manejo del sistema y cuestionario digital en dispositivos móviles 3) desplazamiento en campo y avance del operativo de campo.. 
+__Capacitación__ 
 
 La capacitación se derivo en 3 sesiones: la primera orientada al aprendizaje y manejo de dos cuestionarios; la
 segunda sesión abarco el aprendizaje de los siguientes dos cuestionarios; siendo 4 los cuestionarios instruidos;
@@ -183,15 +182,15 @@ Además se incluyo el manejo del cuestionario dirigido a beneficiarios de UNICEF
 
 Se entregarón los siguientes materiales al personal, para efectivizar el trabajo.
 
--Listado de informantes a consultar, distinguido por día de trabajo y código de encuestador.
+- Listado de informantes a consultar, distinguido por día de trabajo y código de encuestador.
 
--Cuestionarios en formato pdf para guía y estudio de composición de preguntas.
+- Cuestionarios en formato pdf para guía y estudio de composición de preguntas.
 
--Protocolo de llamadas, más descripción de los grupos a consultar.
+- Protocolo de llamadas, más descripción de los grupos a consultar.
 
--Equipos con cuestionarios digitales.
+- Equipos con cuestionarios digitales.
 
--Número de tarjetas de crédito para realizar las llamadas.
+- Número de tarjetas de crédito para realizar las llamadas.
 
 __Organización de campo y funciones__
 
@@ -203,6 +202,7 @@ __Temático:__ Capacitar sobre el uso del cuestionario y satisfacer las dudas de
 
 __Sistemas:__ Capacitar sobre el uso del cuestionario digital, satisfacer las dudas del personal y centralizar la
 información.
+
 __Encuestador:__ Recolectar la información. Realizar las encuestas y entrevistas planificadas a los informantes.
 
 
@@ -239,19 +239,13 @@ __Transmisión__: En línea vía internet y respaldo Backup del dispositivo.
 __Validación:__ Depuración - consolidación de la base (validación interna) y Consultas en el servidor por el usuario
 (validación externa).
 
+*Se realizo la transmisión en linea via internet de la información, tambien por 
+el volumen de la información se uso el backup de los dispositivos para almacenar los datos.*
 
 ## Indicadores del Proyecto
 
 - Demografía.
 - Repercusión de la Pandemia.
-
-## Evaluación de datos
-
-La evaluación del operativo de campo se realizo a través:
-
-1. Del reporte diario del avance de los encuestadores 
-2. Llenado de los cuestionarios
-3. Inserción de variables a la base de datos, descriptivas
 
 # Documentación
 
@@ -275,15 +269,15 @@ por informantes.
 # Base de Datos
 
 Con este proyecto de genero 5 bases de datos:
--Base Cosmol
+- Base Cosmol
 
--Base Defensorias
+- Base Defensorias
 
--Base Ureport
+- Base Ureport
 
--Base Webinars
+- Base Webinars
 
--Base Beneficiarios
+- Base Beneficiarios
 
 
 ## Política de Acceso
