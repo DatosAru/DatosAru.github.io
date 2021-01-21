@@ -61,11 +61,13 @@ La iniciativa cuenta con dos protagonistas principales, los habitantes en su con
 Los habitantes son clave dado que la recolección se da por convocatoria de las autoridades municipales y la visita a comunidades de los cinco municipios de Oruro. Paracontar con la disponibilidad y la cooperación de los hogares se elaboro un plan de sensibilización destinado
 a crear confianza y legitimidad con el proyecto a través de las autoridades para llegar a los habitantes de las
 comunidades.
+
 Los hacedores de política, en este caso la autoridades municipales y locales, también son sumamente
 importantes en el proceso del proyecto porque son ellos que dispondrán de la información para planificar
 propuestas y elaborar proyectos destinados a mejorar la calidad de vida de sus habitantes, además de organizar
 la reunión de los habitantes de las comunidades (a petición de las autoridades) para la recolección de
 información.
+
 El proyecto pretende validar el conocimiento de la comunidad mediante información certera y confiable
 para ofrecer a la localidad las herramientas necesarias para hacer sus propios proyectos.
 
@@ -74,7 +76,8 @@ para ofrecer a la localidad las herramientas necesarias para hacer sus propios p
 ## Censo
 
 Debido a que la finalidad de la iniciativa es que la comunidad pueda contar con un sistema de información innovador y útil es que se realizó un __Censo de Derecho__ para este proyecto, cubriendo a la totalidad de población de las comunidades existentes en  los 5 municipios seleccionados del departamento de Oruro, tomando cuidado de la cobertura del mismo.
-Un censo de derecho, es aquel en el que los individuos se enumeran en su lugar de residencia habitual, aunque no se encuentren presentes en el en el momento del relevamiento de información.
+
+*Un censo de derecho, es aquel en el que los individuos se enumeran en su lugar de residencia habitual, aunque no se encuentren presentes en el en el momento del relevamiento de información.*
 
 ## Cuestionario
 Para el proyecto se uso el cuestionario "Comunidades Informadas en el marco del programa Paquetes de
@@ -140,8 +143,21 @@ __Carga de trabajo:__ 15 días de trabajo.
 
 __Tipo de trabajo:__ Remunerado.
 
-__Capacitación:__ Centrada en tres áreas 1)aprendizaje y manejo del cuestionario, 2) manejo del sistema y cuestionario digital en dispositivos móviles 3) desplazamiento en campo y avance del operativo de campo.. 
+__Capacitación:__ 
 
+Centrada en tres áreas 1)aprendizaje y manejo del cuestionario,
+ 2) manejo del sistema y cuestionario digital en dispositivos móviles 3) 
+ desplazamiento en campo y avance del operativo de campo y práctica del 
+ llenado de la boleta digital. 
+
+__Organización de campo y funciones__
+
+La organización del personal en campo que se dividia en 4 agentes en campo:
+
+ - __Temático:__ Capacitar sobre el uso del cuestionario y satisfacer las dudas del personal.
+ - __Sistemas:__ Capacitar sobre el uso del cuestionario digital, satisfacer las dudas del personal y centralizar la información.
+ - __Supervisor:__ Coordinar el avance del operativo de campo y el procesamiento de información.
+ - __Encuestador:__  Recolectar la información. Realizar las encuestas y entrevistas planificadas a los informantes.
 
 ## Proceso de datos
 
@@ -157,24 +173,26 @@ __Transmisión__: En línea vía internet y respaldo Backup del dispositivo.
 __Validación:__ Depuración - consolidación de la base (validación interna) y Consultas en el servidor por el usuario
 (validación externa).
 
+*La transmisión en linea via internet de la información se hizo para la etapa de 
+empadronamiento, por el volumen de la información también se uso el backup de 
+los dispositivos para almacenar los datos.
+
 ## Indicadores del Proyecto
 
 - Pobreza multidimensional (Educación, salud, shocks ambientales, servicios básicos.)
-- Identificación de mecanismos de protección social en sectores informales
+- Identificación de mecanismos de protección social en sectores informales.
+
 Por ser un proyecto un tanto distinto de los demás; la evaluación, no solo será para la generación de indicadores,
 sino tambien para difusión de la información para las autoridades, para ello se tomará en cuenta:
 Construcción de capacidades para el diseño, recolección, procesamiento y análisis de información en
 los gobiernos locales y participantes del proyecto, preparación de perfiles y resultados de la Localidad,
 preparación para un escalamiento a más localidades.
 
-## Evaluación de datos
+__Construcción de capacidades__ para el diseño, recolección,
+procesamiento y análisis de información en los gobiernos
+locales y participantes del proyecto, preparación de perfiles y 
+resultados de la Localidad, preparación para un escalamiento a más localidades.
 
-La evaluación del operativo de campo se realizo a través:
-
-1. Del reporte diario del avance de los encuestadores 
-2. Llenado de los cuestionarios
-3. Lectura de los informes de campo
-4. Inserción de variables a la base de datos, descriptivas
 
 # Documentación
 
@@ -195,14 +213,16 @@ Los documentos técnicos generados del proyecto son:
 ## Otros Materiales
 
 Otros productos elaborados con el proyecto fueron:
-- 1. Plataforma en Redatam para en línea
-- 2. Plataforma en Redatam móvil
+- 1. Plataforma en Redatam en línea.
+- 2. Plataforma en Redatam móvil.
  
 # Base de Datos
 
--Base Hogares 
+Con este proyecto se genero 2 bases de datos:
 
--Base Comunal
+- Base Hogares 
+
+- Base Comunal
 
 ## Política de Acceso
 
