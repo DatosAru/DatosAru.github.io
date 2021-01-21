@@ -20,8 +20,6 @@ vida y las necesidades de los habitantes de cinco municipios del departamento de
 
 - __Patrocinador(es): PNUD-BOLIVIA.__
 
-- __Instituciones Participantes: Aru Unidad de Datos.__
-
 
 ## Diseño de Instrumentos
 
@@ -30,39 +28,37 @@ bienestar de la población. Estos indicadores capturan aspectos de la pobreza mu
 
 El diseño sigue un proceso organizado y metodológico que consta de las siguientes partes :
 
-- __Planificación del proyecto__ Preparación de materiales, consolidación de preguntas de la encuesta, generación
+- __Planificación del proyecto en general:__ Preparación de materiales, consolidación de preguntas de la encuesta, generación
 del cronograma y capacitación del personal de campo.
 
-- __Sensibilización__ Informar y establecer un diálogo con las autoridades locales y habitantes acerca del
+- __Sensibilización:__ Informar y establecer un diálogo con las autoridades locales y habitantes acerca del
 proyecto. Formar mesas de diálogo con autoridades.
 
-- __Recolección de información__ El operativo visita todos los centros municipales por organización de las
+- __Recolección de información:__ El operativo visita todos los centros municipales por organización de las
 autoridades municipales y hogares de algunas comunidades para hacerles un cuestionario que toma
 aproximadamente 40 minutos.
 
-- __Procesamiento__ Se sistematiza el instrumento de captura y la información recolectada mediante cuestionarios
+- __Procesamiento:__ Se sistematiza el instrumento de captura y la información recolectada mediante cuestionarios
 digitales enlazados a un servidor de la Fundación.
 
-- __Validación__ Se realiza una verificación y validación de los datos en la base de datos y en campo.
+- __Validación:__ Se realiza una verificación y validación de los datos en la base de datos y en campo.
 
-- __Gestión__ Se realizan cálculos de los indicadores clave.
+- __Gestión:__ Se realizan cálculos de los indicadores clave.
 
-- __Formulación__ Se analizan los hallazgos.
+- __Formulación:__ Se analizan los hallazgos.
 
-- __Integración de la información__ Se espera que las autoridades locales integren los resultados de la informaci
+- __Integración de la información:__ Se espera que las autoridades locales integren los resultados de la informaci
 ón para producir políticas locales.
 
-- __Difusión__ Los resultados del proyecto son expuestos a las autoridades gubernamentales y locales de los
+- __Difusión:__ Los resultados del proyecto son expuestos a las autoridades gubernamentales y locales de los
 municipios.
 
 
-## Desarrollo y Participación ciudadana
+## Desarrollo y Participación Ciudadana
 
-La iniciativa cuenta con dos protagonistas principales, los habitantes en su conjunto y los hacedores de
-políticas.
-Los habitantes son clave dado que la recolección se da por convocatoria de las autoridades municipales
-y la visita a comunidades de los cinco municipios de Oruro. Para
-contar con la disponibilidad y la cooperación de los hogares se elaboro un plan de sensibilización destinado
+La iniciativa cuenta con dos protagonistas principales, los habitantes en su conjunto y los hacedores de políticas.
+
+Los habitantes son clave dado que la recolección se da por convocatoria de las autoridades municipales y la visita a comunidades de los cinco municipios de Oruro. Paracontar con la disponibilidad y la cooperación de los hogares se elaboro un plan de sensibilización destinado
 a crear confianza y legitimidad con el proyecto a través de las autoridades para llegar a los habitantes de las
 comunidades.
 Los hacedores de política, en este caso la autoridades municipales y locales, también son sumamente
