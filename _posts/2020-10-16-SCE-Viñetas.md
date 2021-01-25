@@ -14,7 +14,7 @@ excerpt: "El proyecto tiene por objetivo Observar y medir la percepción de la p
 
 - __País: Bolivia.__
 
-- __Fuente: Municipio de Pailón, Santa Cruz.__
+- __Fuente: 4 ciudades La Paz, El Alto, Cochabamba y Santa Cruz.__
 
 - __Patrocinador(es): UNIVERSITY PRINCETON EEUU.__
 
@@ -23,7 +23,7 @@ estudiar a informantes que tienen marcado el tema etnico en su diario vivir, soc
 
 ## Diseño de Instrumentos
 
-Esta metodología esta diseñada para generar una serie de indicadores relacionados a la identicación
+Esta metodología esta diseñada para generar una serie de indicadores relacionados a la identificación
 étnica desde el punto de vista del informante.
 
 El diseño sigue un proceso organizado y metodológico que consta de las siguientes partes :
@@ -31,8 +31,7 @@ El diseño sigue un proceso organizado y metodológico que consta de las siguien
 - __Planificación del proyecto en general:__ Preparación del material, de las preguntas de la encuesta, generaci
 ón del cronograma y capacitación del personal de campo.
 
-- __Recolección de información:__ El operativo visita los manzanos seleccionados por muestreo de 4 municipios
-de Bolivia distribuidos en los departamentos de La Paz, Cochabamba y Santa Cruz.
+- __Recolección de información:__ El operativo visita los manzanos seleccionados por muestreo de 4 ciudades de Bolivia (La Paz, El Alto, Cochabamba y Santa Cruz).
 
 - __Procesamiento:__ Se sistematiza el instrumento de captura y la información recolectada mediante cuestionarios
 digitales enlazados a un servidor de la Fundación a través de dispositivos móviles.
@@ -43,7 +42,7 @@ de la recolección de datos.
 ## Desarrollo y Participación ciudadana
 
 Los informantes con residencia en los manzanos seleccionados: La población objeto de estudio son personas
-mayores de 18 años que habitan los predios elegidas dentro de los manzanos seleccionados en la muestra.
+mayores de 18 años que habitan los predios elegidos dentro de los manzanos seleccionados en la muestra.
 
 # Información Técnica
 
@@ -53,7 +52,7 @@ mayores de 18 años que habitan los predios elegidas dentro de los manzanos sele
 (dentro de la vivienda).*
 
 La población objetivo se concentro en tres departamento de Bolivia, La Paz, Cochabamba y Santa Cruz,
-en los cuales se seleccionó 4 municipios centrales con más concentración de personas: municipio de La Paz, municipio de El Alto, Municipio de Santa Cruz de la Sierra y municipio de Cochabamba, seleccionando de
+en los cuales se seleccionó 4 ciudades centrales con más concentración de personas: La Paz, El Alto,Cochabamba y Santa Cruz de la Sierra, seleccionando de
 ellos manzanos, dentro de los manzanos se selecciono algunos predios habitados y dentro del predio se sorteo
 al entrevistado de los informantes presentes.
 
@@ -128,7 +127,7 @@ __Tipo de operativo:__  Encuestas cara a cara
 
 __Población Objetivo:__ Hombres o Mujeres que habitan en el interior de los predios.
 
-__Cobertura espacial:__ 4 municipios La Paz, El Alto, Cochabamba y Santa Cruz.
+__Cobertura espacial:__ 4 ciudades La Paz, El Alto, Cochabamba y Santa Cruz.
  
 __Cobertura temporal:__ Octubre de 2020.
 
@@ -140,7 +139,7 @@ __Unidad de Observación:__ Informantes hombres o mujeres mayores de 18 años.
 
 __Tiempo de llenado del cuestionario:__ 35 minutos.
 
-__Carga de trabajo:__ 12 días de trabajo.
+__Carga de trabajo:__ 14 días de trabajo.
 
 __Tipo de trabajo:__ Remunerado.
 
@@ -160,7 +159,7 @@ La organización del personal en campo que se dividia en 4 agentes en campo:
 
 - __Temático:__ Capacitar sobre el uso del cuestionario y satisfacer las dudas del personal.
 
-- __Sistemas:__Capacitar sobre el uso del cuestionario digital, satisfacer las dudas del personal y centralizar la
+- __Sistemas:__ Capacitar sobre el uso del cuestionario digital, satisfacer las dudas del personal y centralizar la
 información.
 
 - __Supervisor:__ Coordinar el avance del operativo de campo y el procesamiento de información.
