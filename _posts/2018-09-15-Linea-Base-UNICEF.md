@@ -82,6 +82,9 @@ adecuada para realizar el cálculo de los indicadores:
 
 - __Sección 6:__ Observaciones.
 
+<a href="/cuestionario/Boleta_LB_UNICEF_UE.pdf" download="Cuestionario_LB_UNICEF_UE.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+
+
 ### __Cuestionario a Centros de Salud__ 
 
 - __Sección 0:__ Identificación Geográfica.
@@ -89,6 +92,9 @@ adecuada para realizar el cálculo de los indicadores:
 - __Sección 1:__ Infraestructura y Servicios.
 
 - __Sección 2:__ Observaciones.
+
+<a href="/cuestionario/Boleta_LB_UNICEF_CS.pdf" download="Cuestionario_LB_UNICEF_CS.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+
 
 ### __Cuestionario a Centros Infantiles__ 
 
@@ -108,6 +114,7 @@ adecuada para realizar el cálculo de los indicadores:
 
 - __Sección 7:__ Protección
 
+<a href="/cuestionario/Boleta_LB_UNICEF_CI.pdf" download="Cuestionario_LB_UNICEF_CI.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 ## Recolección de datos
 

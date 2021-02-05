@@ -56,7 +56,7 @@ comunidades beneficiarias del proyecto Mercados Inclusivos
 ## Cuestionario
 
 La estructura del cuestionario, está orientado a recolectar información
-adecuada para realizar el cálculo de los indicadores de interés; el 
+adecuada para realizar el cálculo de los indicadores de interés dentro de los complejos priorizados (papa, haba, quinua , duraznos y hortalizas); el 
 orden de las secciones del cuestionario es el siguiente:
 
 - __Sección 0:__ Ubicación y Referencias de la UPF.
@@ -73,6 +73,16 @@ orden de las secciones del cuestionario es el siguiente:
 
 - __Sección 6:__ Género.
 
+
+<a href="/cuestionario/Boleta_SWISSCONTACT_Haba.pdf" download="Cuestionario_SWISSCONTACT_Haba.pdf" style="color:#54b2a9;"> Descargar Cuestionario complejo Haba <i class="fa fa-file-pdf-o"></i></a>
+
+<a href="/cuestionario/Boleta_SWISSCONTACT_Papa.pdf" download="Cuestionario_SWISSCONTACT_Papa.pdf" style="color:#54b2a9;"> Descargar Cuestionario complejo Papa <i class="fa fa-file-pdf-o"></i></a>
+
+<a href="/cuestionario/Boleta_SWISSCONTACT_Quinua.pdf" download="Cuestionario_SWISSCONTACT_Quinua.pdf" style="color:#54b2a9;"> Descargar Cuestionario complejo Quinua <i class="fa fa-file-pdf-o"></i></a>
+
+<a href="/cuestionario/Boleta_SWISSCONTACT_Valles.pdf" download="Cuestionario_SWISSCONTACT_Valles.pdf" style="color:#54b2a9;"> Descargar Cuestionario complejo Duraznos y hortalizas <i class="fa fa-file-pdf-o"></i></a>
+
+<a href="/cuestionario/Boleta_SWISSCONTACT_E.pdf" download="Cuestionario_SWISSCONTACT_E.pdf" style="color:#54b2a9;"> Descargar Cuestionario Extendido<i class="fa fa-file-pdf-o"></i></a>
 
 
 ## Recolección de datos
