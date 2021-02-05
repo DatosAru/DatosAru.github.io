@@ -46,6 +46,19 @@ este fue el de conocer más sobre la venta de los productos de la tienda así co
 El formulario está destinado a registrar el tipo de establecimiento existente al interior de los predios
 que conforman el manzano, e identificar a la totalidad de hogares existentes.
 
+El cuestionario consta de las siguientes secciones:
+
+- __Sección 0:__ CÓDIGOS DE UBICACIÓN.
+
+- __Sección 1:__ VARIABLES DE IDENTIFICACIÓN Y CARACTERIZACIÓN
+
+- __Sección 2:__ VOLÚMEN DE VENTAS DE CERVEZA.
+
+- __Sección 3:__ OBSERVACIONES DEL ENCUESTADOR.
+
+<a href="/cuestionario/Boleta_CBN.pdf" download="Cuestionario_CBN.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+
+
 ## Recolección de datos
 
 __Tipo de operativo:__  Encuesta.
