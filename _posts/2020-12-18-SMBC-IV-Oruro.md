@@ -268,4 +268,3 @@ Información disponible, a nivel agregado para uso con REDATAM.
 
 Variables de tipo cuantitativa y cualitativa, contenidas en el diccionario de la base de datos.
 
-## Cuestionario del proyecto

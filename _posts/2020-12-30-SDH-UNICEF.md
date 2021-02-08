@@ -330,4 +330,3 @@ Información disponible, a pedido..
 
 Variables de tipo cuantitativa y cualitativa, contenidas en el diccionario de la base de datos.
 
-## Cuestionario del proyecto

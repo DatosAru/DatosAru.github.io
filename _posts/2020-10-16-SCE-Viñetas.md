@@ -266,5 +266,4 @@ Información disponible, a pedido.
 
 Variables de tipo cuantitativa y cualitativa.
 
-## Cuestionario del proyecto
 
