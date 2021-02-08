@@ -107,6 +107,7 @@ __Encuesta Dirigida a Hogares__
 
 - __Sección 11:__ GÉNERO E IGUALDAD SOCIAL.
 
+<a href="/cuestionario/Boleta_SMBC_Oruro.pdf" download="Cuestionario_SMBC_Oruro.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 ## Recolección de datos
 

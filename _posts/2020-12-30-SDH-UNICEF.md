@@ -82,6 +82,7 @@ __Encuesta Dirigida a Personal de Defensorías de la Niñez y SLIMs__
 
 - __Sección 4:__  Uso y beneficios.
 
+<a href="/cuestionario/Boleta_UNICEF_DNA-SLIM.pdf" download="Cuestionario_UNICEF_DNA-SLIM.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 __Encuesta Dirigida a Participantes de U-REPORT__
 
@@ -94,6 +95,8 @@ __Encuesta Dirigida a Participantes de U-REPORT__
 - __Sección 3:__ Viabilidad y factibilidad en la implementación.
 
 - __Sección 4:__  Uso y beneficios.
+
+<a href="/cuestionario/Boleta_UNICEF_UReport.pdf" download="Cuestionario_UNICEF_UReport.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 
 __Encuesta Dirigida a Participantes de Ciclo de WEBINARS__
@@ -108,6 +111,7 @@ __Encuesta Dirigida a Participantes de Ciclo de WEBINARS__
 
 - __Sección 4:__  Uso y beneficios.
 
+<a href="/cuestionario/Boleta_UNICEF_Webinars.pdf" download="Cuestionario_UNICEF_Webinars.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 __Encuesta Dirigida a Personal de la Cooperativa COSMOL Sobre Insumos de Bioseguridad Provistos por UNICEF__
 
@@ -123,6 +127,7 @@ __Encuesta Dirigida a Personal de la Cooperativa COSMOL Sobre Insumos de Biosegu
 
 - __Sección 5:__ Uso y beneficios
 
+<a href="/cuestionario/Boleta_UNICEF_WASH.pdf" download="Cuestionario_UNICEF_WASH.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 __Encuesta Dirigida a Beneficiarios de Transferencias Monetarias no Condicionadas__
 
@@ -135,6 +140,9 @@ __Encuesta Dirigida a Beneficiarios de Transferencias Monetarias no Condicionada
 - __Sección 3:__ Viabilidad y factibilidad en la implementación.
 
 - __Sección 4:__ Uso y beneficios
+
+<a href="/cuestionario/Boleta_UNICEF_CashTransfers.pdf" download="Cuestionario_UNICEF_CashTransfers.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+
 
 ## Recolección de datos
 
