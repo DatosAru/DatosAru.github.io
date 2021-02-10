@@ -83,7 +83,6 @@ Políticas":
 
 - __Sección 9:__ ¿QUÉ TAN CIERTAS SON PARA UDS LAS SIGUIENTES AFIRMACIONES?
 
-<a href="/cuestionario/Boleta_SCE_Viñetas.pdf" download="Cuestionario_SCE_Viñetas.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 ### __Encuesta Dirigida a Informantes de un predio (Operativo de Campo)__ 
 
@@ -106,6 +105,8 @@ Políticas":
 - __Sección 8:__ APELLIDOS NATIVOS DE BOLIVIA
 
 - __Sección 9:__ ¿QUÉ TAN CIERTAS SON PARA UDS LAS SIGUIENTES AFIRMACIONES?
+
+<a href="/cuestionario/Boleta_SCE_Viñetas.pdf" download="Cuestionario_SCE_Viñetas.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 El cuestionario sufrio algunas modificaciones después de la prueba piloto
 

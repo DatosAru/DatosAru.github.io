@@ -67,6 +67,8 @@ __Sección 5:__ Características generales del hogar y sus miembros.
 
 __Sección 6:__ Empleo.
 
+<a href="/cuestionario/Boleta_SMBC_Vallegrande.pdf" download="Cuestionario_SMBC_Vallegrande.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+
 Adicionalmente a este cuestionario se encuentra el cuestionario comunal, que contiene información total administrativa
 de la comunidad, que debe ser llenada por alguna autoridad del lugar, esta se pretende llenar en el
 tiempo de la devolución de la información pública a la comunidad.

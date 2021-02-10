@@ -74,6 +74,7 @@ El cuestionario consta de las siguientes secciones:
 
 - __Sección 10:__ Percepción del propietario sobre el programa de Pro Bolivia.
 
+<a href="/cuestionario/Boleta_JIWASA_2017.pdf" download="Cuestionario_JIWASA_2017.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
 ## Recolección de datos
 

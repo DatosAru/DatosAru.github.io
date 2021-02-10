@@ -1,8 +1,8 @@
 ---
-title: "Evaluación de Impacto al Programa de Educación Financiera del Banco Unión S.A. - Banco Unión S.A."
+title: "Evaluación de Impacto al Programa de Educación Financiera del Banco Unión S.A."
 layout: post
 category: Encuesta
-tags: [Programa, Financiera]
+tags: [Programa, Financiera, Evaluación]
 excerpt: "El presente documento se enfoca en realizar la evaluación del impacto generado por los talleres de educación financiera otorgados por el Banco Unión SA."
 ---
 
@@ -131,9 +131,10 @@ Financiero. Se emplearon 2 cuestionarios diferentes en el proyecto, uno para aca
  
  __Sección 10:__ Presupuesto.
  
- __Sección 11:__ Indicadores de crecimiento.
+ __Sección 11:__ Indicadores de conocimiento.
  
- 
+ <a href="/cuestionario/Boleta_EI_BancoUnion.pdf" download="Cuestionario_EI_BancoUnion.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+
 ##  Recolección de datos
 
 __- Tipo de operativo:__ Una combinación de trabajo de recolección de información en salas donde se
