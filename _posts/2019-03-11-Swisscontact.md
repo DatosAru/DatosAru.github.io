@@ -3,7 +3,7 @@ title: "Levantamiento de Línea de Base del Proyecto Mercados Inclusivos
 - Fundación SWISSCONTACT"
 layout: post
 category: Encuesta
-tags: [UPF, Agropecuario, Empoderamiento]
+tags: [UPF, Agropecuario, Empoderar]
 excerpt: "Este documento presenta la metodología e instrumentos 
 diseñados para el relevamiento de información de la  Línea base 
 del Proyecto Mercados inclusivos – SWISCONTACT  (2018 -2021)."
