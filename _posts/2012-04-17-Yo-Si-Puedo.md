@@ -2,7 +2,7 @@
 title: "Encuesta de Evaluación al Programa Nacional de Alfabetización Yo Si Puedo - Bolivian Campaign for Education right CBDE."
 layout: post
 category: Encuesta
-tags: [Programa, Alfabetización]
+tags: [Programa, Alfabetizar, Evaluación]
 excerpt: "El proyecto busca realizar un análisis riguroso de los resultados del Programa
 Nacional de Alfabetización - Yo si Puedo "
 ---
