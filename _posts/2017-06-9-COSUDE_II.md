@@ -115,6 +115,7 @@ __Sección 8:__ Capacitación y Persepciones del Egresado.
 
 __Sección 9:__ Observaciones del encuestador.
 
+
 ## Recolección de datos
 
 __Tipo de operativo:__ 14 días de recorrido por los centros de capacitacion y vivienda de los egresados.
