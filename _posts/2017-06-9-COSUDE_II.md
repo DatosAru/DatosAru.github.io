@@ -115,6 +115,8 @@ __Sección 8:__ Capacitación y Persepciones del Egresado.
 
 __Sección 9:__ Observaciones del encuestador.
 
+<a href="/cuestionario/Boleta_COSUDE_II-2017.pdf" download="Cuestionario_COSUDE_II.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+
 
 ## Recolección de datos
 
