@@ -242,14 +242,3 @@ Las bases de datos disponibles de este proyecto son:
 
 Variables de tipo cuantitativa, contenidas en el diccionario de la base de datos.
 
-# Cuestionarios del Proyecto
-
-<a href="/cuestionario/SWISSCONTACT_Papa.pdf" download="Cuestionario_Papa.pdf" style="color:#182b4b;"> Descargar Cuestionario Papa <i class="fa fa-file-pdf-o"></i></a>
-<br> 
-<a href="/cuestionario/SWISSCONTACT_Haba.pdf" download="Cuestionario_Haba.pdf" style="color:#182b4b;"> Descargar Cuestionario Haba <i class="fa fa-file-pdf-o"></i></a>
-<br> 
-<a href="/cuestionario/SWISSCONTACT_Quinua.pdf" download="Cuestionario_Quinua.pdf" style="color:#182b4b;"> Descargar Cuestionario Quinua <i class="fa fa-file-pdf-o"></i></a>
-<br> 
-<a href="/cuestionario/SWISSCONTACT_Valles.pdf" download="Cuestionario_Valles.pdf" style="color:#182b4b;"> Descargar Cuestionario Valles <i class="fa fa-file-pdf-o"></i></a>
-<br> 
-<a href="/cuestionario/SWISSCONTACT_Extendidas.pdf" download="Cuestionario_Extendida.pdf" style="color:#182b4b;"> Descargar Cuestionario Extendida <i class="fa fa-file-pdf-o"></i></a>
