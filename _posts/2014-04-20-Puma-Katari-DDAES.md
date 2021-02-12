@@ -110,6 +110,9 @@ __Sección 2:__ Características del hogar y sus miembros.
 - __Parte 1:__ Empleo.
 - __Parte 2:__ Información del hogar.
 
+<a href="/cuestionario/Boleta_PumaKatari.pdf" download="Cuestionario_PumaKatari.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+
+
 ## Recolección de datos 
 
 El recojo de información se realizó durante la semana del 5 al 11 de mayo (7 días) entre las 7:00 a 20:00 Hrs. Las
