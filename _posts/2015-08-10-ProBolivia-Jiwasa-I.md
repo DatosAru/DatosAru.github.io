@@ -109,6 +109,7 @@ El cuestionario consta de las siguientes secciones:
 
 - __Sección 11:__ Observaciones del encuestador.
 
+<a href="/cuestionario/Boleta_ProBolivia_JIWASA.pdf" download="Cuestionario_ProBolivia_JIWASA.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 ## Recolección de datos
 
