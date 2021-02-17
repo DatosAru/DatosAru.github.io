@@ -149,6 +149,8 @@ __Sección 5:__ Riesgos.
 
 __Sección 6:__ Caracteristicas Básicas de la vivienda.
 
+<a href="/cuestionario/Boleta_SMBC_Concepcion.pdf" download="Cuestionario_SMBC_Concepcion.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+
 ### Cuestionario de Verificación
 
 El cuestionario esta compuesto por algunas secciones involucradas en la etapa
@@ -162,6 +164,7 @@ __Sección 2:__ Empleo.
 
 __Sección 4:__ Gastos del Hogar.
 
+<a href="/cuestionario/Boleta_SMBC_Concepcion-CV.pdf" download="Cuestionario_SMBC_Concepcion-CV.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 ## Recolección de datos
 
