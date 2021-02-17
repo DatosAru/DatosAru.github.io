@@ -108,6 +108,12 @@ __Sección 0:__ Identificación
 
 __Sección 1:__ Características de la Unidad Educativa
 
+<a href="/cuestionario/Boleta_VisiónMundial_NNA-PDA.pdf" download="Cuestionario_NNA-PDA.pdf" style="color:#54b2a9;"> Descargar Cuestionario Niños, Niñas en las PDA’s <i class="fa fa-file-pdf-o"></i></a>
+
+<a href="/cuestionario/Boleta_VisiónMundial_NNA-UE.pdf" download="Cuestionario_NNA-UE.pdf" style="color:#54b2a9;"> Descargar Cuestionario Niños, Niñas en las Unidades Educativas <i class="fa fa-file-pdf-o"></i></a>
+
+<a href="/cuestionario/Boleta_VisiónMundial_UE.pdf" download="Cuestionario_UE.pdf" style="color:#54b2a9;"> Descargar Cuestionario Unidad Educativa <i class="fa fa-file-pdf-o"></i></a>
+
 ## Recolección de datos 
 
 Con los instrumentos generados, y consensuados con el equipo de WVB (indicadores, boleta, cuestionarios, guía
