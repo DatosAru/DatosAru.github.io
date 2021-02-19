@@ -91,6 +91,8 @@ Hogar:
 - Pasivos y Patrimonio
 - Vivienda
 
+<a href="/cuestionario/Boleta_BDP_HGR.pdf" download="Cuestionario_BDP_HGR.pdf" style="color:#54b2a9;"> Descargar Modulo Hogar <i class="fa fa-file-pdf-o"></i></a>
+
 Manufactura:
 
 - Identificación de la unidad económica
@@ -102,6 +104,8 @@ Manufactura:
 - Personal Ocupado
 - Infraestructura, maquinaria y/o equipo
 
+<a href="/cuestionario/Boleta_BDP_MNF.pdf" download="Cuestionario_BDP_MNF.pdf" style="color:#54b2a9;"> Descargar Modulo Manufactura <i class="fa fa-file-pdf-o"></i></a>
+
 Agropecuaria:
 
 - Identificación de la unidad productiva agropecuaria
@@ -112,6 +116,8 @@ Agropecuaria:
 - Ganadería y Aves
 - Personal Ocupado
 - Infraestructura, maquinaria y/o equipo agrícola
+
+<a href="/cuestionario/Boleta_BDP_AGR.pdf" download="Cuestionario_BDP_AGR.pdf" style="color:#54b2a9;"> Descargar Modulo Agropecuario <i class="fa fa-file-pdf-o"></i></a>
 
 ## Recolección de Datos
 
