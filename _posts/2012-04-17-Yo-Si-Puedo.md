@@ -107,6 +107,8 @@ encuesta que recaba datos sobre:
 - Resultados educativos del programa
 - Reducción de pobreza
 
+<a href="/cuestionario/Boleta_Yo_Si_Puedo.pdf" download="Cuestionario_Yo_Si_Puedo.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+
 ## Recolección de datos 
 
 Para la recolección de datos se armaron brigadas para el área urbana y rural

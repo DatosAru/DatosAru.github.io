@@ -141,6 +141,14 @@ de supervisión conjunta (SC) de los estratos más pobres generalmente rurales
 y dispersos. Dentro de la boleta, se introdujo variables dicótomicas y otras categóricas para
 aquellos aspectos laborales de percepción sobre trabajo digno.
 
+<a href="/cuestionario/Boleta_Save_Children-1.pdf" download="Cuestionario_Save_Children-1.pdf" style="color:#54b2a9;"> Descargar Cuestionario "Encuesta  para niñas y niños de 6-18 años"<i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_Save_Children-2.pdf" download="Cuestionario_Save_Children-2.pdf" style="color:#54b2a9;"> Descargar "Guía de Entrevista a Autoridades Locales"<i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_Save_Children-3.pdf" download="Cuestionario_Save_Children-3.pdf" style="color:#54b2a9;"> Descargar "Guía Grupo Focal con niños y niñas entre 6 y 9 años"<i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_Save_Children-5.pdf" download="Cuestionario_Save_Children-5.pdf" style="color:#54b2a9;"> Descargar "Evaluación de logros de Aprendizaje 2do de secundaria"<i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_Save_Children-6.pdf" download="Cuestionario_Save_Children-6.pdf" style="color:#54b2a9;"> Descargar "Evaluación de logros de Aprendizaje 4to de primaria"<i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_Save_Children-7.pdf" download="Evaluación_Lenguaje_4to-Primaria.pdf" style="color:#54b2a9;"> Descargar Historia de Apiaguaiki<i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_Save_Children-8.pdf" download="Evaluación_Lenguaje_2do-Secundaria.pdf.pdf" style="color:#54b2a9;"> Descargar Historia El Nina-Nina o Chiru-Chiru<i class="fa fa-file-pdf-o"></i></a>
+
 ## Recoleccción de datos
 
 Las actividades para la recolección de información y su posterior sistematización comprenden una estrategia, dividida en tres partes:

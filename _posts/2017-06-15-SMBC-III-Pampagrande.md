@@ -147,6 +147,8 @@ __Sección 6:__ Empleo.
   - __Parte 4:__ Informalidad.
 
 
+  <a href="/cuestionario/Boleta_SMBC_Valles.pdf" download="Cuestionario_SMBC_Valles.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+
 ## Recolección de datos
 
 Durante el trabajo en campo se realizaron dos actividades de forma simultánea: el llenado del
