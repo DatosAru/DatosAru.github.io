@@ -112,6 +112,8 @@ __Formulario de Identificación y Listado del Hogar__
 El formulario está destinado a registrar el tipo de establecimiento existente al interior de los predios
 que conforman el manzano, e identificar a la totalidad de hogares existentes.
 
+<a href="/cuestionario/Formulario_SMBC-III.pdf" download="Formulario_SMBC-III.pdf" style="color:#54b2a9;"> Descargar Formulario <i class="fa fa-file-pdf-o"></i></a>
+
 __Cuestionario de Enpadronamiento__
 
  La estructura del cuestionario, está orientado a recolectar
@@ -147,7 +149,7 @@ __Sección 6:__ Empleo.
   - __Parte 4:__ Informalidad.
 
 
-  <a href="/cuestionario/Boleta_SMBC_Valles.pdf" download="Cuestionario_SMBC_Valles.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_SMBC_Valles.pdf" download="Cuestionario_SMBC_Valles.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
 ## Recolección de datos
 
@@ -232,13 +234,20 @@ Los documentos técnicos generados del proyecto son:
 ## Otros Materiales
 Adicionalmente a los documentos citados, se encuentran otros materiales del proyecto:
 - __Temática__
+
   - Cuestionario "SISTEMA DE MONITOREO BASADO EN LA COMUNIDAD - VALLES CRUCEÑOS - 2017".
   - Matriz de Indicadores.
+  
 - __Trabajo de Campo__
+
   - Material de Capacitación (manuales, presentaciones).
+  
+<a href="/manual/Manual_SMBC-III.pdf" download="Manual_SMBC-III.pdf" style="color:#54b2a9;"> Descargar Manual de Empadronamiento <i class="fa fa-file-pdf-o"></i></a>
+  
   - Material de organización (convocatorias, planillas, cronogramas).
   - Mapas cartográficos
   - Informe trabajo de campo
+  
 - __Sensibilización__
   - Tríptico
   - Calendario

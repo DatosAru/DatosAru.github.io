@@ -197,12 +197,16 @@ organización comunitaria y de municipios
 Adicionalmente a los productos, se encuentran materiales con los que se acredito el proyecto:
 
 - Manuales de capacitación para el personal de campo
+
+<a href="/manual/Manual_Encuestador_BDP.pdf" download="Manual_Encuestador_BDP.pdf" style="color:#54b2a9;"> Descargar Manual del Encuestador <i class="fa fa-file-pdf-o"></i></a>
+
 - Coordenadas de GPS de las viviendas y parcelas de los hogares
 - Ponderaciones del muestreo que se utilizarán en el análisis de datos
 - Programa computacional diseñado para el procesamiento y validación de
 datos de la encuesta de línea de base
 - Listado final de viviendas y productores para el diseño de la muestra
 - Tabla de selección y recorrido de ''Random walk''
+
 
 # Base de Datos
 
