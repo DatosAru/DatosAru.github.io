@@ -62,8 +62,8 @@ buscando tener una muestra balanceada según producto(haba, quinua, papa y duraz
 
 ## Muestreo
 
-Del marco total que Swiscontact se selecciono una muestra balanceada por producto e ingreso aproximado
-declarado en una anterior entrevista realizada (estos productores con personas que se visitaron con la
+Del marco total proporcionado por la fundación Swiscontact, se selecciono una muestra balanceada por producto e ingreso aproximado
+declarado en una anterior entrevista realizada (estos productores son personas que se visitaron con la
 fundación para realizarles una entrevista cara a cara en otro proyecto con Swiscontact).
 
 ## Cuestionario
