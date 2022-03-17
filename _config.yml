@@ -31,18 +31,18 @@ my:
     realName_cn: Unidad de Datos
     jobTitle: "Encuestas"
     contact:
-        qq: 22004491
+        qq: 22779067
         email: udata@aru.org.bo
         github: https://udata-aru.github.io/
         qzone: Av. Arce
         pinterest: https://www.pinterest.com/miblah/
-        tel: 22004492-22004491
+        tel: 22779067
         address:
             country: Bolivia
             state: La Paz
-            city: Prov Murillo
+            city: Prov. Murillo
             distribute: Unidad de Datos
-            postcode: 000000
+            postcode: 0
             cell: "Fundación ARU"
     skills:
         frontend: ["HTML", "GITHUB", "R", "REDATAM"]
