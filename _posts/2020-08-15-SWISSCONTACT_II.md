@@ -160,10 +160,8 @@ __Tipo de trabajo:__ Remunerado.
 
 __Capacitación__
 
-La capacitación se derivo en 3 sesiones: la primera orientada al aprendizaje y manejo de dos cuestionarios; la
-segunda sesión abarco el aprendizaje de los siguientes dos cuestionarios; siendo 4 los cuestionarios instruidos;
-la tercera estuvo centrada al plan de avance del operativo de campo y aprendizaje de la boleta digital de los
-4 cuestionarios más un ensayo del llenado de los mismos abarcado la práctica del uso de los cuestionarios.
+La capacitación se derivo en 3 sesiones: la primera orientada al aprendizaje y manejo de dos cuestionarios fisicos; la
+segunda sesión abarco el aprendizaje de la boleta digital; la tercera estuvo centrada al plan de avance del operativo de campo y  la práctica del uso de los cuestionarios.
 
 Se dividio al personal según el producto, para el mejor manejo de la toma de la entrevista.
 
