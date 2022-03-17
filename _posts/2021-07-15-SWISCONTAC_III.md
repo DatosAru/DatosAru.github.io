@@ -1,152 +1,107 @@
 ---
-title: "Humanitarian Performance Monitoring UNICEF - BOLIVIA"
+title: "Evaluacion de Impacto Proyecto Mercados Inclusivos - Fundación SWISSCONTACT"
 layout: post
 category: Encuesta
-tags: [Evaluación, Pandemia, UNICEF]
-excerpt: "En este documento se presenta la información del proyecto Humanitarian Performance Monitoring, que tiene por objetivo realizar un seguimiento y evaluación a todas las actividades realizadas
-por UNICEF durante la pandemia en Bolivia."
+tags: [Impacto, Agricultura, Pandemia]
+excerpt: "En este documento se describirán los procesos realizados durante el estudio de evaluación de impacto del  Proyecto Mercados Inclusivos enfocado en el impacto de la iniciativa en cuatro productos priorizados Durazno, Papa, Quinua y Haba.."
 
 ---
 # Información General
 
-El proyecto nace de la necesidad de hacer seguimiento y evaluación de las actividades realizadas por UNICEF
-durante la época de pandemia en Bolivia, cursos, donación de elementos de bioseguridad y transferencias
-monetarias .
+El proyecto Mercados Inclusivos (2017 – 2021) se realiza en Bolivia con el financiamiento de la Cooperación de Suiza y
+la Cooperación de Suecia y es implementado por el consorcio Swisscontact y PROFIN.
+
+El objetivo mayor del proyecto Mercados Inclusivos es mejorar las condiciones de vida de la población meta contribuyendo
+a reducir su situación de pobreza. La población meta son hombres y mujeres que desarrollan actividades agrícolas,
+pecuarias u otras (con énfasis en mujeres y jóvenes), en unidades productivas familiares (UPFs), particularmente vulnerables
+a los efectos del cambio climático y a la inseguridad alimentaria localizados en el Altiplano y Valles Interandinos.
 
 - __Referencia: Unidad de Micro Datos y Encuestas.__
 
-- __Año: 2020 Noviembre - Diciembre__
+- __Año: 2021 Junio- Julio__
 
 - __País: Bolivia.__
 
-- __Fuente: Listado de informantes proporcionados por UNICEF.__
+- __Fuente: Unidades Productivas familiares de tres departamentos del país.__
 
-- __Patrocinador(es): UNICEF-BOLIVIA.__
+- __Patrocinador(es): Fundación SWISSCONTACT y PROFIN.__
 
 
 ## Diseño de Instrumentos
 
-Esta metodología esta diseñada para recolectar información de los beneficiarios de UNICEF a través de
-llamadas telefónicas.
+Esta metodología está diseñada para recolectar información de dos tipos de población :
+- Población Tratamiento que son UPFs que fueron beneficiados por la iniciativa y que además se dedican a producir uno de  los productos priorizados
+
+- Población Control que son productores que no fueron beneficiados por la iniciativa, pero que se dedican a la producción los productos priorizados.
+
 
 El diseño sigue un proceso organizado y metodológico que consta de las siguientes partes :
 
-- __Planificación del proyecto en general:__ Preparación de materiales,preparación del sistema, generación
+- __Planificación del proyecto en general:__ Preparación de materiales, preparación del sistema, generación
 del cronograma y capacitación del personal de campo.
 
 - __Sensibilización:__ Informar y establecer un parametro de confianza a través de anuncios en la página de
-la Fundación acerca del proyecto.
+la Fundación acerca del proyecto, además de socializar el trabajo de recolección con autoridades locales.
 
-- __Recolección de información:__ Los encuestadores a través de llamadas realizaban una encuesta de 20
-minutos.
+- __Recolección de información:__ El personal de campo visitas las UPFs ubicadas en los municipios y comunidades muestreadas, realizando las entrevistas cara a cara.
 
 - __Procesamiento:__ Se sistematiza el instrumento de captura y la información recolectada a través de
 cuestionarios digitales.
 - __Validación:__ Se realiza una verificación y validación de los datos.
 
-- __Gestión:__ Se realizan cálculos de los indicadores clave.
+- __Gestión:__ Se realizan cálculos de los indicadores clave para el estudio.
 
-- __Formulación:__ Se analizan los hallazgos.
+- __Formulación:__ Se analizan los hallazgos y se formulan concluciones.
 
 - __Integración de la información:__ A través de la interacción del informante con el encuestador.
 
 
 ## Desarrollo y Participación ciudadana
 
-El operativo de campo se realizó a través de llamadas telefónicas con el llenado de cuestionarios digitales,
-realizados en KOBO enlazados a un servidor digital con sincronización de resultados con bases brutas. Se
-entrevisto a los informantes participes de los listados de UNICEF; informantes que participaban en encuestas,
-participantes de talleres, beneficiarios de elementos de bioseguridad y beneficiarios de transferencias
-monetarias.
+El operativo de campo se realizó a través de encuestas cara a cara con el llenado de cuestionarios digitales,
+realizados en ODK enlazados a un servidor digital con sincronización de resultados con bases brutas. 
 
 # Información Técnica
 
 ## Muestreo
 
-Para los informantes: participantes de encuestas, participantes de talleres y beneficiarios de elementos de
-bioseguridad; se tomo una muestra del listado general, luego a mitad del operativo se añadio el 35% mas de
-la muestra original, del listado de transferencias monetarias se tomo todo el listado disponible.
+La muestra de comunidades tratamiento se selecciono del marco de listados proporcionado por la fundación SWISSCONTACT, 
+la muestra de comunidades control se seleccionaron tomando en cuenta la existencia de características similares  a las de las comunidades tratamiento.
 
 ## Cuestionario
-Para una adecuada captura de información, se empleo diferentes cuestionarios:
-
-__Encuesta Dirigida a Personal de Defensorías de la Niñez y SLIMs__
-
-- __Sección 0:__ Datos básicos del informante.
-
-- __Sección 1:__ Ocupación laboral.
-
-- __Sección 2:__ Pertinencia y oportunidad de la capacitación recibida.
-
-- __Sección 3:__ Viabilidad y factibilidad en la capacitación.
-
-- __Sección 4:__  Uso y beneficios.
-
-<a href="/cuestionario/Boleta_UNICEF_DNA-SLIM.pdf" download="Cuestionario_UNICEF_DNA-SLIM.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
-
-__Encuesta Dirigida a Participantes de U-REPORT__
-
-- __Sección 0:__ Datos básicos del informante.
-
-- __Sección 1:__ Participación en U-Report.
-
-- __Sección 2:__ Pertinencia y oportunidad de la participación en U-Report.
-
-- __Sección 3:__ Viabilidad y factibilidad en la implementación.
-
-- __Sección 4:__  Uso y beneficios.
-
-<a href="/cuestionario/Boleta_UNICEF_UReport.pdf" download="Cuestionario_UNICEF_UReport.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+Para una adecuada captura de información, se empleo cuatro cuestionarios que cuenta con las siguientes secciones :
 
 
-__Encuesta Dirigida a Participantes de Ciclo de WEBINARS__
+- __Sección 0:__ Ubicación y referencia de la UPF.
 
-- __Sección 0:__ Datos básicos del informante.
+- __Sección 1:__ Características de los informantes.
 
-- __Sección 1:__ Participación en webinar.
+- __Sección 2:__ Ingresos no agropecuarios.
 
-- __Sección 2:__ Pertinencia y oportunidad de la capacitación virtual.
+- __Sección 3:__ Características de la UPF.
 
-- __Sección 3:__ Viabilidad y factibilidad en la implementación.
+- __Sección 4:__ Eventos adversos y capacidad de mitigación/recuperación.
 
-- __Sección 4:__  Uso y beneficios.
+- __Sección 5:__ Intervenciones Mercados Inclusivos y entorno.
 
-<a href="/cuestionario/Boleta_UNICEF_Webinars.pdf" download="Cuestionario_UNICEF_Webinars.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
+- __Sección 6:__ Empoderamiento de la mujer en la agricultura.
 
-__Encuesta Dirigida a Personal de la Cooperativa COSMOL Sobre Insumos de Bioseguridad Provistos por UNICEF__
 
-- __Sección 0:__ Datos básicos del informante.
+### __Encuesta Dirigida a UPFs productoras de Durazno__
+<a href="/cuestionario/Boleta_SWISSCONTACT_III-Durazno.pdf" download="Cuestionario_SWISSCONTACT_Durazno.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
-- __Sección 1:__ Participación dentro de COSMOL.
+### __Encuesta Dirigida a UPFs productoras de Papa__
+<a href="/cuestionario/Boleta_SWISSCONTACT_III-Papa.pdf" download="Cuestionario_SWISSCONTACT_Papa.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
-- __Sección 2:__ Ocupación laboral y sus características en el contexto del COVID-19.
+### __Encuesta Dirigida a UPFs productoras de Quinua__
+<a href="/cuestionario/Boleta_SWISSCONTACT_III-Quinua.pdf" download="Cuestionario_SWISSCONTACT_Quinua.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
-- __Sección 3:__ Pertinencia y oportunidad de los insumos de bioseguridad entregados por UNICEF.
-
-- __Sección 4:__ Viabilidad e implementación de los insumos entregados.
-
-- __Sección 5:__ Uso y beneficios
-
-<a href="/cuestionario/Boleta_UNICEF_WASH.pdf" download="Cuestionario_UNICEF_WASH.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
-
-__Encuesta Dirigida a Beneficiarios de Transferencias Monetarias no Condicionadas__
-
-- __Sección 0:__ Datos básicos del informante (Encuesta anónima de acuerdo a Cláusula de Confiidencialidad).
-
-- __Sección 1:__ Características del hogar.
-
-- __Sección 2:__ Pertinencia y oportunidad de la transferencia monetaria.
-
-- __Sección 3:__ Viabilidad y factibilidad en la implementación.
-
-- __Sección 4:__ Uso y beneficios
-
-<a href="/cuestionario/Boleta_UNICEF_CashTransfers.pdf" download="Cuestionario_UNICEF_CashTransfers.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
-
+### __Encuesta Dirigida a UPFs productoras de Haba__
+<a href="/cuestionario/Boleta_SWISSCONTACT_III-Haba.pdf" download="Cuestionario_SWISSCONTACT_Haba.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
 ## Recolección de datos
 
-Para la recolección de datos se dio uso de las siguientes etapas:
+Para la recolección de datos se conto con las siguientes etapas:
 - Reclutamiento.
 - Capacitación.
 - Organización de campo y funciones.
@@ -155,90 +110,70 @@ Para la recolección de datos se dio uso de las siguientes etapas:
 
 __Reclutamiento__
 
-Del personal interesado, se selecciono a 9 encuestadores para trabajar por 5 días, pero con los ajustes del
-listado por grupo este número se redujo a 8 encuestadores. Fueron seleccionadas 6 personas de la ciudad
-de La Paz y 2 personas de la ciudad de Tarija, siendo los temas a considerar: experiencia en recolección
-encampo y experiencia en encuestas por teléfono.
+Del personal reclutado, se selecciono a 16 personas 4 supervisores y 12 encuestadores.
 
-__Tipo de operativo:__  encuestas por teléfono
+__Tipo de operativo:__  Encuestas cara a cara
 
-__Población Objetivo:__ Listado de informantes de UNICEF.
+__Población Objetivo:__ Listado de comunidades Tratamiento beneficiarias Mercados Inclusivos y comunidades control .
 
-__Cobertura espacial:__ Bolivia
+__Cobertura espacial:__ 42 comunidades distribuidas en 3 departamentos (La Paz, Oruro y Potosí)
 
-__Cobertura temporal:__ Diciembre 2020.
+__Cobertura temporal:__ Junio y Julio de 2021.
 
-__Cobertura temática:__ Pandemia
+__Cobertura temática:__ Efectos del cambio climático, empoderamiento de la mujer en la agricultura, 
 
-__Personal:__ 6 personas de la ciudad de La Paz y 2 personas de la ciudad de Tarija.
+__Personal:__ 8 personas de la ciudad de La Paz, 4 personas de la ciudad de Oruro y 4 personas de la ciudad de Potosí.
 
-__Unidad de Observación:__ Muestra UNICEF.
+__Unidad de Observación:__ Unidades Productivas Familiares (UPFs)- Productor/a principal.
 
-__Tiempo de llenado del cuestionario:__ 20 minutos.
+__Tiempo de llenado del cuestionario:__ 30 minutos.
 
-__Carga de trabajo:__ 30 úmeros de teléfono
+__Carga de trabajo:__ 6 cuestionarios por día 
 
 __Tipo de trabajo:__ Remunerado.
 
 __Capacitación__ 
 
-La capacitación se derivo en 3 sesiones: la primera orientada al aprendizaje y manejo de dos cuestionarios; la
-segunda sesión abarco el aprendizaje de los siguientes dos cuestionarios; siendo 4 los cuestionarios instruidos;
-la tercera estuvo centrada al plan de avance del operativo de campo y aprendizaje de la boleta digital de los
-4 cuestionarios más un ensayo del llenado de los mismos abarcado la práctica del uso de los cuestionarios.
-Además se incluyo el manejo del cuestionario dirigido a beneficiarios de UNICEF económicamente.
+La capacitación se derivo en 3 sesiones: la primera orientada al aprendizaje y manejo del cuestionario físico; la
+segunda sesión abarco el aprendizaje de la boleta digital; la tercera sesión estuvo centrada al plan de desplazamiento, avance del operativo de campo y  la práctica del uso de los cuestionarios.
 
-Se entregarón los siguientes materiales al personal, para efectivizar el trabajo.
 
-- Listado de informantes a consultar, distinguido por día de trabajo y código de encuestador.
+Se entregarón los siguientes materiales al personal de campo, para efectivizar el trabajo.
 
-- Cuestionarios en formato pdf para guía y estudio de composición de preguntas.
+- Listado de comunidades Tratamiento y Control, distinguido por día de trabajo y código de brigada.
 
-- Protocolo de llamadas, más descripción de los grupos a consultar.
+- Cuestionarios en formato físico (pdf) para guía y estudio de composición de preguntas.
 
 - Equipos con cuestionarios digitales.
 
-- Número de tarjetas de crédito para realizar las llamadas.
+- Manual del trabajo en campo destinado para ser una guía de consulta para aclarar las dudas que se pudieran presentar en el personal durante el trabajo
+de campo.
 
 __Organización de campo y funciones__
 
 La organización del personal en campo que se dividia en 4 agentes en campo:
-
-__Supervisor:__ Coordinar el avance del operativo de campo y el procesamiento de información.
 
 __Temático:__ Capacitar sobre el uso del cuestionario y satisfacer las dudas del personal.
 
 __Sistemas:__ Capacitar sobre el uso del cuestionario digital, satisfacer las dudas del personal y centralizar la
 información.
 
+__Supervisor:__ Coordinar el avance del operativo de campo y el procesamiento de información.
+
 __Encuestador:__ Recolectar la información. Realizar las encuestas y entrevistas planificadas a los informantes.
 
 
 __Plan de Trabajo en Campo__
 
-El operativo de campo, comenzó el miercoles 2 y termino el miercoles 23 de diciembre, dando el último día
-para volver a intentar con los números de teléfono con lo que no se pudo contactar en los días programados.
+ El operativo de recolección de información dio inicio el 24 de junio y concluyo el 13 de julio.
   
-| Objeto de Estudio |    Muestra    | Ejecutado  |
-| ----------------- | :-----------: | :--------: |
-| COSMOL            | 10            | 8          |
-| ----------------- | :-----------: | :--------: |
-| Ureport           | 53            | 21         |
-| ----------------- | :-----------: | :--------: |
-| Defensoria        | 398           | 206        |
-| ----------------- | :-----------: | :--------: |
-| Webinar           | 327           | 177        |
-| ----------------- | :-----------: | :--------: |
-| Beneficiarios     | 379           | 218        |
-| ----------------- | :-----------: | :--------: |
-
 ## Proceso de datos
 
 Para el proceso de datos se emplea el Sistema de Información, basado en el método de captura, denominado:
-Computer - Assisted Personal Interviewing (CAPI), desarrollado en KOBO, para este diseño de sistema se
+Computer - Assisted Personal Interviewing (CAPI), desarrollado en ODK, para este diseño de sistema se
 empleo:
 
-__Captura:__ Aplicación KOBO cargada en el dispositivo.
+__Captura:__ Aplicación ODK cargada en el dispositivo.
 
 __Consistencia:__ Árbol lógico de programación en la aplicación.
 
@@ -252,8 +187,12 @@ el volumen de la información se uso el backup de los dispositivos para almacena
 
 ## Indicadores del Proyecto
 
-- Demografía.
-- Repercusión de la Pandemia.
+- Rendimiento de producción.
+- Pobreza multidimensional.
+- Cambio climático.
+- Ingresos
+- Empoderamiento de la mujer en la agricultura 
+- Espacio de decisión
 
 # Documentación
 
@@ -261,8 +200,7 @@ el volumen de la información se uso el backup de los dispositivos para almacena
 
 Los documentos técnicos generados del proyecto son:
 
-- Cuestionario.
-- Propuesta de proyecto.
+- Cuestionarios.
 - Protocolo de Sistemas.
 - Informe.
 - Cronograma de Actividades.
@@ -271,21 +209,18 @@ Los documentos técnicos generados del proyecto son:
 
 ## Otros Materiales
 
-Adicionalmente a los productos, se encuentra link's en línea de los cuestionarios digitales, incidencia de casos
-por informantes.
+Archivos Shapefiles de las comunidades muestreadas.
  
 # Base de Datos
 
-Con este proyecto de genero 5 bases de datos:
-- Base Cosmol
+Con este proyecto de genero 4 bases de datos:
+- Base Durazno
 
-- Base Defensorias
+- Base Papa
 
-- Base Ureport
+- Base Quinua
 
-- Base Webinars
-
-- Base Beneficiarios
+- Base Haba
 
 
 ## Política de Acceso
@@ -324,7 +259,7 @@ Fundación ARU - Unidad de Microdatos y Encuestas 2020.
 
 ## Archivo de datos
 
-Información disponible, a pedido..
+Información disponible, a pedido.
 
 ## Grupo de variables
 
