@@ -3,7 +3,7 @@ title: "Evaluacion de Impacto Proyecto Mercados Inclusivos - Fundación SWISSCON
 layout: post
 category: Encuesta
 tags: [Impacto, Agricultura, Pandemia]
-excerpt: "En este documento se describirán los procesos realizados durante el estudio de evaluación de impacto del  Proyecto Mercados Inclusivos enfocado en el impacto de la iniciativa en cuatro productos priorizados Durazno, Papa, Quinua y Haba.."
+excerpt: "En este documento se describirán los procesos realizados durante el estudio de evaluación de impacto del  Proyecto Mercados Inclusivos enfocado en el impacto de la iniciativa en cuatro productos priorizados Durazno, Papa, Quinua y Haba."
 
 ---
 # Información General
@@ -88,16 +88,17 @@ Para una adecuada captura de información, se empleo cuatro cuestionarios que cu
 
 
 ### __Encuesta Dirigida a UPFs productoras de Durazno__
-<a href="/cuestionario/Boleta_SWISSCONTACT_III-Durazno.pdf" download="Cuestionario_SWISSCONTACT_Durazno.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+
+<a href="/cuestionario/Boleta_SWISSCONTACT_III_Durazno.pdf" download="Cuestionario_SWISSCONTACT_Durazno.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
 ### __Encuesta Dirigida a UPFs productoras de Papa__
-<a href="/cuestionario/Boleta_SWISSCONTACT_III-Papa.pdf" download="Cuestionario_SWISSCONTACT_Papa.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_SWISSCONTACT_III_Papa.pdf" download="Cuestionario_SWISSCONTACT_Papa.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
 ### __Encuesta Dirigida a UPFs productoras de Quinua__
-<a href="/cuestionario/Boleta_SWISSCONTACT_III-Quinua.pdf" download="Cuestionario_SWISSCONTACT_Quinua.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_SWISSCONTACT_III_Quinua.pdf" download="Cuestionario_SWISSCONTACT_Quinua.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
 ### __Encuesta Dirigida a UPFs productoras de Haba__
-<a href="/cuestionario/Boleta_SWISSCONTACT_III-Haba.pdf" download="Cuestionario_SWISSCONTACT_Haba.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+<a href="/cuestionario/Boleta_SWISSCONTACT_III_Haba.pdf" download="Cuestionario_SWISSCONTACT_Haba.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
 ## Recolección de datos
 
