@@ -154,7 +154,7 @@ __Encuesta Dirigida a Beneficiarios de Capacitación en Sistemas de Protección_
 
 <a href="/cuestionario/O3_Cap_sist_prot.pdf" download="Cuestionario_UNICEF_CapSiProt.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
-__Encuesta Dirigida a Beneficiarios de Niñez migrante UNICEF __
+__Encuesta Dirigida a Beneficiarios de Niñez migrante UNICEF__
 
 - __Sección 0:__ Datos básicos del informante 
 
@@ -269,7 +269,7 @@ __Encuesta Dirigida a Fortalecimiento de Capacidades Ludmila__
 
 <a href="/cuestionario/O4_Fort_Capac_Ludmila.pdf" download="Cuestionario_UNICEF_ForCapLudmila.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
-__Encuesta Dirigida a U - Report UNICEF __
+__Encuesta Dirigida a U - Report UNICEF__
 
 - __Sección 0:__ Datos básicos del informante 
 
