@@ -1,5 +1,5 @@
 ---
-title: "Evaluacion de Impacto Proyecto Mercados Inclusivos - Fundación SWISSCONTACT"
+title: "Evaluación de Impacto Proyecto Mercados Inclusivos - SWISSCONTACT"
 layout: post
 category: Encuesta
 tags: [Impacto, Agricultura, Pandemia]
