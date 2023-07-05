@@ -3,14 +3,18 @@ title: "Sistema Plurinacional de Certificación de Competencias en la situación
 layout: post
 category: Evaluación
 tags: [Evaluación, Certificación, SPCC]
-excerpt: "En este documento se presenta la evaluación de impacto alos beneficiarios del Sistema Plurinacional de Certificación de Competencias en la situación de empleo e ingresos."
+excerpt: "En este documento se presenta información del proceso realizado para la evaluación de impacto a los beneficiarios del Sistema Plurinacional de Certificación de Competencias en la situación de empleo e ingresos."
 
 ---
 # Información General
 
-El proyecto nace de la necesidad de hacer seguimiento y evaluación de las actividades realizadas por UNICEF
-durante la época de pandemia en Bolivia, cursos, donación de elementos de bioseguridad y transferencias
-monetarias .
+El Sistema Plurinacional de Certificación de Competencias (SPCC) tiene sus orígenes en el Plan Nacional de Desarrollo “Bolivia Digna, Soberana, Productiva y Democrática para Vivir Bien” (2006), donde se establece “legitimar, a través de un proceso de certificación, las competencias, conocimientos, y habilidades adquiridas de manera empírica por jóvenes y adultos” bajo criterios de productividad, recuperación de saberes culturales y respeto a la Madre Tierra. 
+
+El SPCC nace como una Institución Pública Desconcentrada del Ministerio de Educación (ME); creada a través del Decreto Supremo N° 29876 de 24 de diciembre de 2008 y consolidada en la Ley de Educación N° 070 “Avelino Siñani – Elizardo Pérez” de 20 de diciembre de 2010 en su Artículo 82, y que administrativamente depende del Viceministerio de Educación Alternativa y Especial (VEAyE), según Resolución Ministerial N°100/2013 de 4 abril. 
+
+Desde sus inicios (2006), la Cooperación Suiza en Bolivia ha brindado apoyo al SPCC a través de convenios establecidos con el Ministerio de Educación, coadyuvando así en el arranque (2006 – 2009), el fortalecimiento (2010-2013), y la consolidación (2014-2017) de la institución. Para el periodo 2018 -2022, se ha definido un nuevo convenio entre ambas entidades.
+
+Después de 15 años de esta iniciativa, es importante conocer los impactos generados por este servicio en las condiciones de vida de las personas certificadas, para tal efecto, Fundación ARU sera respon sable de realizar la evaluación de impacto al programa.
 
 - __Referencia: Unidad de Micro Datos y Encuestas.__
 
@@ -20,13 +24,13 @@ monetarias .
 
 - __Fuente: Listado de informantes proporcionados por SPCC, informantes con iguales características no certificados.__
 
-- __Patrocinador(es): PNUD-BOLIVIA.__
+- __Patrocinador(es): COSUDE-BOLIVIA.__
 
 
 ## Diseño de Instrumentos
 
 Esta metodología esta diseñada para recolectar información de los beneficiarios de SPCC a través de
-llamadas telefónicas y visitas en campo, también se acudira a personas pertenecientes a asociaciones de los beneficiarios y distintos no certificados por el SPCC.
+llamadas telefónicas y visitas en campo, también se acudira a personas pertenecientes a asociaciones de los beneficiarios y otras que no se encuentran certificados por el SPCC.
 
 El diseño sigue un proceso organizado y metodológico que consta de las siguientes partes :
 
