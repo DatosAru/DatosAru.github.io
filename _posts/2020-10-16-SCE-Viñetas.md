@@ -36,7 +36,7 @@ El diseño sigue un proceso organizado y metodológico que consta de las siguien
 - __Procesamiento:__ Se sistematiza el instrumento de captura y la información recolectada mediante cuestionarios
 digitales enlazados a un servidor de la Fundación a través de dispositivos móviles.
 
-- __Validación:__ Una veriFIcación y validación de los datos en campo y en la base de datos durante y después
+- __Validación:__ Una verificación y validación de los datos en campo y en la base de datos durante y después
 de la recolección de datos.
 
 ## Desarrollo y Participación ciudadana
