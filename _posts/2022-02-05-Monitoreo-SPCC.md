@@ -190,6 +190,7 @@ el volumen de la información se uso el backup de los dispositivos para almacena
 
 ## Indicadores del Proyecto
 
+- Indicadores de impacto.
 - Demografía.
 - Análisis estadístico de datos.
 
