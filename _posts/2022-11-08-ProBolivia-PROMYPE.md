@@ -2,9 +2,8 @@
 title: "Evaluación de Impacto del Proyecto PROMYPE"
 layout: post
 category: Encuesta
-tags: [Programa, Mypes]
-excerpt: "En este documento se presenta la información del proyecto  Encuesta de seguimiento al programa
-Pro Bolivia 2017 , detalles relacionados con el levantamiento y procesamiento de información."
+tags: [Evaluación, Mypes, Programa]
+excerpt: "En este documento se presenta la información del proyecto  Encuesta de Evaluación de Impacto al proyecto PROMYPE 2022."
 
 ---
 # Información General
@@ -25,7 +24,7 @@ El PROMYPE tiene un enfoque de apoyo integral a la MYPE del sector manufacturero
 
 - __País: Bolivia.__
 
-- __Fuente: Chuquisaca, La Paz, Cochabamba, Oruro y Potosí.__
+- __Fuente: 5 departamentos Chuquisaca, La Paz, Cochabamba, Oruro y Potosí.__
 
 - __Patrocinador(es): Ministerio de Desarrollo Productivo y Economía Plural, PRO-BOLIVIA y COSUDE.__
 
@@ -58,10 +57,10 @@ cuestionarios digitales.
 
 La población involucrada en el proyecto son: 
 
-- Población Tratamiento: Son hombres o mujeres del sector de la micro y peque˜na empresa (MYPE) de los rubros Alimentos,
+- Población Tratamiento: Son hombres o mujeres del sector de la micro y peque˜ña empresa (MYPE) de los rubros Alimentos,
 Madera, Metal mecánica, Cuero y Textil, que fueron beneficiadas por el proyecto PROMYPE.
 
-- Población Control: Son hombres o mujeres pertenecientes al sector de la micro y peque˜na empresa (MYPE) que NO fueron beneficiadas por el programa PROMYPE, estas personas presentan características similares a la de los beneficiarios(tratamiento) tales como  sector productivo, periodo de referencia del funcionamiento de la MYPE, etc.
+- Población Control: Son hombres o mujeres pertenecientes al sector de la micro y peque˜ña empresa (MYPE) que NO fueron beneficiadas por el programa PROMYPE, estas personas presentan características similares a la de los beneficiarios(tratamiento) tales como  sector productivo, periodo de referencia del funcionamiento de la MYPE, etc.
 
 # Información Técnica
 
@@ -105,7 +104,7 @@ El cuestionario utilizado para la recolección de información tiene las siguien
 - __Sección 10:__ COVID19.
 
 <a href="/cuestionario/Boleta_PROMYPE_2022.pdf" download="Cuestionario_PROMYPE_2022.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
-GuiaEntrevistas_PROMYPE_2022
+
 
 De manera paralela a la recolección de encuestas a las MYPEs, también se indagaron aspectos
 relevantes de la evaluación de impacto a través de datos cualitativos extraídos en entrevistas según
@@ -127,6 +126,7 @@ __Prueba piloto__
 
 Realizada el 17 de octubre en el rubro de alimentos en el municipio de La
 Paz, obteniendo 12 encuestas.
+
 
 __Reclutamiento__
 
@@ -237,14 +237,14 @@ Adicionalmente a los documentos citados, se encuentran otros materiales del proy
 # Base de Datos
 
 En este proyecto de generó 1 base de datos:
-- "promype_v1"
+- promype_v1.dta
 
 
 ## Política de Acceso
 
 - __Autorización acceso__
 
-Unidad de micro datos y encuestas udata@aru.org.bo - Fundación ARU
+Unidad de micro datos y encuestas - Fundación ARU udata@aru.org.bo
 
 - __Contactos__
 
