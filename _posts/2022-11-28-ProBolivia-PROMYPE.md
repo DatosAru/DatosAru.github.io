@@ -236,7 +236,7 @@ Adicionalmente a los documentos citados, se encuentran otros materiales del proy
  
 # Base de Datos
 
-En este proyecto de generó 1 base de datos:
+En este proyecto se generó 1 base de datos:
 - promype_v1.dta
 
 
