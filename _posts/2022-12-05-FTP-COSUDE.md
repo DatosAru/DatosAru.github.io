@@ -29,7 +29,7 @@ personas sin educación regular, o personas con discapacidad), así como en los 
 
 ## Diseño de Instrumentos
 
-La metodología fué diseñada para recolectar información de tres tipos de población Tratamiento, población Control I y población Control II, a través de visitas en campo y entrevistas telefónicas:
+La metodología fué diseñada para recolectar información de tres tipos de población Tratamiento, población Control I y población Control II, a través de visitas en campo y entrevistas telefónicas.
 
 El diseño sigue un proceso organizado y metodológico que consta de las siguientes partes :
 
@@ -125,7 +125,7 @@ __Población Objetivo:__ Por una parte, hombres y mujeres ya sean jóvenes o adu
 
 __Cobertura espacial:__ 7 departamentos del país Chuquisaca, La Paz, Cochabamba, Tarija, Santa Cruz Beni y Pando
 
-__Cobertura temporal:__  del 10 al 27 Noviembre al de 2022.
+__Cobertura temporal:__  del 10 al 27 Noviembre de 2022.
 
 __Cobertura temática:__ Evaluación de impacto cuasi experimental para estimar los posibles efectos atribuible al proyecto sobre los principales indicadores de empleo e ingresos de los beneficiarios.
 
