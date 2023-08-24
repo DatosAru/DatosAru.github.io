@@ -61,7 +61,7 @@ El marco muestral empleado para el grupo tratamiento fueron los listados provist
 
 ## Muestreo
 
-Se recurrió a un diseño muestral por dominios de estudio y definido por los rubros y una selección de 2 etapas, comunidades y UPF; dado como resultados 16 comunidades seleccionadas por rubro, 8 de tratamiento y 8 de control. Teniendo un global de 112 comunidades, 56 para cada grupo. Dentro de cada comunidad 14 UP (1568 UP en global).
+Se recurrió a un diseño muestral por dominios de estudio definido por los rubros y una selección de 2 etapas, comunidades y UPF; dado como resultados 16 comunidades seleccionadas por rubro, 8 de tratamiento y 8 de control. Teniendo un global de 112 comunidades, 56 para cada grupo. Dentro de cada comunidad 14 UP (1568 UP en global).
 El rendimiento de muestreo considera un error de tipo I del 5 %, un poder del 80 %, un coeficiente de correlación intracluster de 0.4. Logrando un delta global de 0.175 y por rubro de 0.5
 
 ## Cuestionario
@@ -85,23 +85,27 @@ Para una adecuada captura de información, se empleo cuatro cuestionarios que cu
 
   - __Encuesta Dirigida a UPFs productoras de Frutales(durazno y manzana)__
 
-<a href="/cuestionario/Boleta_MI_Frutales2023.pdf" download="Cuestionario_MI_Frutales.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+      <a href="/cuestionario/Boleta_MI_Frutales2023.pdf" download="Cuestionario_MI_Frutales.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
  - __Encuesta Dirigida a UPFs productoras de Tomate__
-<a href="/cuestionario/Boleta_MI_Tomate2023.pdf" download="Cuestionario_MI_Tomate.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+ 
+     <a href="/cuestionario/Boleta_MI_Tomate2023.pdf" download="Cuestionario_MI_Tomate.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
  -  __Encuesta Dirigida a UPFs productoras de Papa__
-<a href="/cuestionario/Boleta_MI_Papa2023.pdf" download="Cuestionario_MI_Papa.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+ 
+      <a href="/cuestionario/Boleta_MI_Papa2023.pdf" download="Cuestionario_MI_Papa.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
   - __Encuesta Dirigida a UPFs productoras de Café__
 
-<a href="/cuestionario/Boleta_MI_Cafe2023.pdf" download="Cuestionario_MI_Cafe.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+      <a href="/cuestionario/Boleta_MI_Cafe2023.pdf" download="Cuestionario_MI_Cafe.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
  - __Encuesta Dirigida a UPFs productoras de Cacao__
-<a href="/cuestionario/Boleta_MI_Cacao2023.pdf" download="Cuestionario_MI_Cacao.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+ 
+     <a href="/cuestionario/Boleta_MI_Cacao2023.pdf" download="Cuestionario_MI_Cacao.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
  -  __Encuesta Dirigida a UPFs productoras de Quinua__
-<a href="/cuestionario/Boleta_MI_Quinua2023.pdf" download="Cuestionario_MI_Quinua.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
+ 
+     <a href="/cuestionario/Boleta_MI_Quinua2023.pdf" download="Cuestionario_MI_Quinua.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
 *Para el caso del producto priorizado Quinua se eliminó la sección 7 del cuestionario.*
 
