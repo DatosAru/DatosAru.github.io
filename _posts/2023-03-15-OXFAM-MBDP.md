@@ -1,9 +1,9 @@
 ---
-title: "Evaluación de medio término proyecto Mujeres de Bolivia, tus derechos en el presupuesto - 2022"
+title: "Evaluación de medio término proyecto Mujeres de Bolivia, tus Derechos en el Presupuesto - 2022"
 layout: post
 category: Encuesta
 tags: [Evaluación, Presupuesto, Género]
-excerpt: "El presente documento describe el proceso de relevamiento de información cuantitativa y cualitativa ejecutadas para realizar la evaluación de medio término del proyecto Mujeres de Bolivia, tus derechos en el presupuesto."
+excerpt: "El presente documento describe el proceso de relevamiento de información cuantitativa y cualitativa ejecutadas para realizar la evaluación de medio término del proyecto Mujeres de Bolivia, tus Derechos en el Presupuesto."
 
 ---
 # Información General
@@ -104,7 +104,7 @@ __Encuesta Técnicos Municipales__
 
 <a href="/cuestionario/Boleta_OXFAM_TecnicosGAM22.pdf" download="Cuestionario_OXFAM_TecnicosMuniciapales.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
-__Guía de Entrevista Autoridades Municipales Electas __ 
+__Guía de Entrevista Autoridades Municipales Electas__ 
 
 - __Sección 0:__ Identificación Geográfica.
 
@@ -162,19 +162,19 @@ La capacitación se realizó de forma diferida para cada tipo de población dura
 
 Se entregarón los siguientes materiales al personal, para efectivizar el trabajo.
 
-- Listado de informantes beneficiarios del proyecto.
+ - Listado de informantes beneficiarios del proyecto.
 
-- Listado de Unidades educativas priorizadas.
+ - Listado de Unidades educativas priorizadas.
 
-- Contactos de autoridades municipales.
+ - Contactos de autoridades municipales.
 
-- Cuestionarios físicos y en formato pdf.
+ - Cuestionarios físicos y en formato pdf.
 
-- Protocolo del trabajo en campo.
+ - Protocolo del trabajo en campo.
 
-- Equipos con cuestionarios digitales.
+ - Equipos con cuestionarios digitales.
 
-- Planillas de campo.
+ - Planillas de campo.
 
 __Organización de campo y funciones__
 
@@ -243,10 +243,10 @@ Adicionalmente a los documentos citados, se encuentran otros materiales del proy
 # Base de Datos
 
 En este proyecto de generó 4 base de datos:
-- BaseMujeres.dta
-- BaseEstudiantes.dta
-- BaseMunicipal.dta
-- BaseOxfamTec.dta
+ - BaseMujeres.dta
+ - BaseEstudiantes.dta
+ - BaseMunicipal.dta
+ - BaseOxfamTec.dta
 
 
 ## Política de Acceso
