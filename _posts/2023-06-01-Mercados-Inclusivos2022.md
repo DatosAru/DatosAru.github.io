@@ -87,11 +87,11 @@ Para una adecuada captura de información, se empleo cuatro cuestionarios que cu
 
       <a href="/cuestionario/Boleta_MI_Frutales2023.pdf" download="Cuestionario_MI_Frutales.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
- - __Encuesta Dirigida a UPFs productoras de Tomate__
+  - __Encuesta Dirigida a UPFs productoras de Tomate__
  
      <a href="/cuestionario/Boleta_MI_Tomate2023.pdf" download="Cuestionario_MI_Tomate.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
- -  __Encuesta Dirigida a UPFs productoras de Papa__
+  - __Encuesta Dirigida a UPFs productoras de Papa__
  
       <a href="/cuestionario/Boleta_MI_Papa2023.pdf" download="Cuestionario_MI_Papa.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
@@ -99,11 +99,11 @@ Para una adecuada captura de información, se empleo cuatro cuestionarios que cu
 
       <a href="/cuestionario/Boleta_MI_Cafe2023.pdf" download="Cuestionario_MI_Cafe.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
- - __Encuesta Dirigida a UPFs productoras de Cacao__
+  - __Encuesta Dirigida a UPFs productoras de Cacao__
  
      <a href="/cuestionario/Boleta_MI_Cacao2023.pdf" download="Cuestionario_MI_Cacao.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
- -  __Encuesta Dirigida a UPFs productoras de Quinua__
+  -  __Encuesta Dirigida a UPFs productoras de Quinua__
  
      <a href="/cuestionario/Boleta_MI_Quinua2023.pdf" download="Cuestionario_MI_Quinua.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
 
