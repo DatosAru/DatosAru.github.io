@@ -225,7 +225,7 @@ Los documentos técnicos generados del proyecto son:
  
 # Base de Datos
 
-Con este proyecto de genero 5 bases de datos:
+Con este proyecto se generó 5 bases de datos:
 
  - Base Frutales
 

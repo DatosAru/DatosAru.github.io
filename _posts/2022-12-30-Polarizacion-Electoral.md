@@ -181,27 +181,28 @@ Los indicadores son:
 
 Los documentos técnicos generados del proyecto son:
 
-- Propuesta de proyecto.
-- Cuestionario.
-- Protocolo de Sistemas.
-- Cronograma de Actividades.
-- Informe.
-- Material de Capacitación(manuales, presentaciones, etc.).
-- Listado de cargas de trabajo.
+  - Propuesta de proyecto.
+  - Cuestionario.
+  - Protocolo de Sistemas.
+  - Cronograma de Actividades.
+  - Informe.
+  - Material de Capacitación(manuales, presentaciones, etc.).
+  - Listado de cargas de trabajo.
 
 ## Otros Materiales
 
 Adicionalmente a los documentos citados, se encuentran otros materiales del proyecto:
 
-- Mapas cartográficos de la ubicación de comunidades y recintos electorales. 
-- Cartas de Presentación 
-- Planillas de supervición
-- Listados con información y direcciones de los recintos electorales.
+  - Mapas cartográficos de la ubicación de comunidades y recintos electorales. 
+  - Cartas de Presentación 
+  - Planillas de supervición
+  - Listados con información y direcciones de los recintos electorales.
  
 # Base de Datos
 
-En este proyecto de generó 1 base de datos:
-- polarizacion_v1.dta
+En este proyecto se generó 1 base de datos:
+
+  - polarizacion_v1.dta
 
 
 ## Política de Acceso

@@ -196,10 +196,10 @@ el volumen de la información se uso el backup de los dispositivos para almacena
 
 Los indicadores son:
 
-- Indicadores de Impacto
-- Indicadores Demográficos
-- Indicadores de Empleo
-- Indicadores de niveles de ingresos
+  - Indicadores de Impacto
+  - Indicadores Demográficos
+  - Indicadores de Empleo
+  - Indicadores de niveles de ingresos
 
 # Documentación
 
@@ -207,25 +207,25 @@ Los indicadores son:
 
 Los documentos técnicos generados del proyecto son:
 
-- Cuestionario.
-- Propuesta de proyecto.
-- Protocolo de Sistemas.
-- Informe.
-- Cronograma de Actividades.
-- Material de Capacitación(manuales, presentaciones).
-- Listado de cargas de trabajo.
+  - Cuestionario.
+  - Propuesta de proyecto.
+  - Protocolo de Sistemas.
+  - Informe.
+  - Cronograma de Actividades.
+  - Material de Capacitación(manuales, presentaciones).
+  - Listado de cargas de trabajo.
 
 ## Otros Materiales
 
 Adicionalmente a los documentos citados, se encuentran otros materiales del proyecto:
 
-- Planillas de supervición
-- Cartas de Presentación 
-- Listados con información y direcciones de los CEAs e ITTs.
+  - Planillas de supervición
+  - Cartas de Presentación 
+  - Listados con información y direcciones de los CEAs e ITTs.
  
 # Base de Datos
 
-En este proyecto de generó 1 base de datos:
+En este proyecto se generó 1 base de datos:
 - ftp_v1.dta
 
 

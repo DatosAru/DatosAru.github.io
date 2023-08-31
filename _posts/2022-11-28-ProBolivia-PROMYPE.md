@@ -218,26 +218,26 @@ Los indicadores son:
 
 Los documentos técnicos generados del proyecto son:
 
-- Cuestionarios.
-- Propuesta de proyecto.
-- Protocolo de Sistemas.
-- Informe.
-- Cronograma de Actividades.
-- Material de Capacitación(manuales, presentaciones).
-- Listado de cargas de trabajo.
+  - Cuestionarios.
+  - Propuesta de proyecto.
+  - Protocolo de Sistemas.
+  - Informe.
+  - Cronograma de Actividades.
+  - Material de Capacitación(manuales, presentaciones).
+  - Listado de cargas de trabajo.
 
 ## Otros Materiales
 
 Adicionalmente a los documentos citados, se encuentran otros materiales del proyecto:
 
-- Planillas de supervición
-- Cartas de Presentación 
-- Notas  de Solicitud.
+  - Planillas de supervición
+  - Cartas de Presentación 
+  - Notas  de Solicitud.
  
 # Base de Datos
 
 En este proyecto se generó 1 base de datos:
-- promype_v1.dta
+  - promype_v1.dta
 
 
 ## Política de Acceso
