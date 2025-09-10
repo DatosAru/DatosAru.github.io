@@ -3,7 +3,7 @@ title: "Encuesta de monitoreo al Programa de Asistencia Humanitaria para Migrant
 layout: post
 category: Encuesta
 tags: [Humanitaria, Migrantes, Asistencia]
-excerpt: "El proyecto se centra en obtener mayor y mejor información de las poblaciones afectadas por situaciones de emergencias, con respecto al Programa de Asistencia Humanitaria para Migrantes ejecutados por UNICEF"
+excerpt: "El proyecto se centra en obtener mayor y mejor información de las poblaciones afectadas por situaciones de emergencias, con respecto al Programa de Asistencia Humanitaria para Migrantes ejecutado por UNICEF"
 ---
 
 # Información General
