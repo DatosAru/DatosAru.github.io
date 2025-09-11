@@ -52,16 +52,6 @@ Para eel estudio se recurrirá a un muestreo no-probabilístico, esta metodolog�
 Para una adecuada captura de información, se empleo un cuestionario  estructurado de manera que facilitara la recopilación uniforme de información.
 
 El cuestionario se componen de las siguientes secciones:
-
- __Encuesta Dirigida a Jovenes beneficiarios del servicio AIDA__
-- __Sección 0:__ Datos básicos del informante.
-- __Sección 1:__ Conocimiento y pertinencia de servicios AIDA.
-- __Sección 2:__ Viabilidad de la atención en el establecimientos de salud adaptados e integrales. 
-- __Sección 3:__ Atención en establecimientos de salud adaptados e integrales.
-
- <a href="/cuestionario/Boleta_JovenesAIDA_UNFPA.pdf" download="Cuestionario_Jovenes.pdf" style="color:#54b2a9;"> Descargar Cuestionario<i class="fa fa-file-pdf-o"></i></a>
-
- __Encuesta Dirigida a Promotoras__
 - __Sección 0:__ Identificación.
 - __Sección 1:__ Seguridad, dignidad y acción sin daño.
 - __Sección 2:__ Acceso efectivo. 
@@ -122,7 +112,7 @@ __Encuestador:__ Recolectar la información. Realizar las encuestas y entrevista
 
 ## Proceso de datos
 
-Para el proceso de datos, se utiliza dos modalidades, el Sistema de Información basado en la técnica de captura denominada "Computer-Assisted Personal Interviewing" (CAPI), desarrollado en KoboToolbox y por medio de una URL para equipos diferentes al sistema Android. En este diseño de sistema se emplean los siguientes elementos:
+Para el proceso de datos, se utiliza el Sistema de Información basado en la técnica de captura denominada "Computer-Assisted Personal Interviewing" (CAPI), desarrollado en KoboToolbox y por medio de una URL para equipos diferentes al sistema Android. En este diseño de sistema se emplean los siguientes elementos:
 
 - **Captura:** Aplicación KoboCollect instalada en el dispositivo.
   
