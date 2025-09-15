@@ -34,7 +34,7 @@ El diseño sigue un proceso organizado y metodológico descrito en las  siguient
 
 - __Procesamiento:__ Se sistematiza el instrumento de captura y la información recolectada a través de cuestionarios digitales.
 - __Validación:__ Se realiza una verificación y validación de los datos.
-- __Gestión:__ Se realiza el analisis descriptivo de la información.
+- __Gestión:__ Se realiza el análisis descriptivo de la información.
 - __Formulación:__ Se analizan los hallazgos.
 - __Integración de la información:__ A través de la interacción del informante con el encuestador.
 
@@ -150,7 +150,7 @@ Adicionalmente a los documentos citados, se encuentran otros materiales del proy
 
 - Planillas de supervisión
 - Listados de contactos clave de los Puntos de Apoyo y Orientación PAO 
-- Cartas de Presentación con la descripción del propocito de la encuesta.
+- Cartas de Presentación con la descripción del propósito de la encuesta.
 
 # Base de Datos
 
@@ -183,8 +183,8 @@ El acceso a los microdatos, con previa autorización de la entidad contratante, 
 
 Se autoriza el uso de la información contenida en este portal. Queda
 en cambio prohibida la copia o reproducción de los datos en cualquier
-medio electrónico (redes, bases de datos, cd rom,etc.)
-que permita la disponibilidad de esta información a multiples usuarios
+medio electrónico (redes, bases de datos, cd rom, etc.)
+que permita la disponibilidad de esta información a múltiples usuarios
 sin el previo visto bueno de la Unidad de Datos por medio escrito
 
 - __Derechos y responsabilidades__
