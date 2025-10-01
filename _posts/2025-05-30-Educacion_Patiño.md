@@ -12,7 +12,7 @@ Preparar a las nuevas generaciones para el trabajo, la ciudadanía y la vida en 
 
 Para iniciar este cambio es necesario tener claridad sobre dos factores. El primero exige comprender cuáles son los aprendizajes y aptitudes que exigirá el futuro. El segundo se refiere a las formas de generar, fomentar y transmitir estas nuevas competencias y aptitudes.
 
-Bolivia no es ajena a este conjunto de desafíos, sin embargo, pese a que  en los últimos años se ha iniciado la discusión sobre la importancia de avanzar en la construcción de una educación para el siglo XXI, su sistema educativo todavía está atrapado en un modelo que mantiene prácticas pedagógicas tradicionales, que ha decantado en una clara crisis de aprendizajes y que es ajeno a los aprendizajes, capacidades y competencias que los estudiantes requerirán para enfrentar los retos del futuro.
+Bolivia no es ajena a este conjunto de desafíos, sin embargo, pese a que en los últimos años se ha iniciado la discusión sobre la importancia de avanzar en la construcción de una educación para el siglo XXI, su sistema educativo todavía está atrapado en un modelo que mantiene prácticas pedagógicas tradicionales, que ha decantado en una clara crisis de aprendizajes y que es ajeno a los aprendizajes, capacidades y competencias que los estudiantes requerirán para enfrentar los retos del futuro.
 
 - __Referencia: Unidad de Micro Datos y Encuestas__
 
@@ -20,19 +20,19 @@ Bolivia no es ajena a este conjunto de desafíos, sin embargo, pese a que  en lo
 
 - __País: Bolivia__
 
-- __Fuente: Estudiantes de las Escuelas de Formación de Maestros (ESFM), docentes en ejercicio de primaria y secundaria de  escuelas públicas y privadas y estudiantes de secundaria.__
+- __Fuente: Estudiantes de las Escuelas de Formación de Maestros (ESFM), docentes en ejercicio de primaria y secundaria de escuelas públicas y privadas y estudiantes de secundaria.__
 
 - __Patrocinador(es): Fundación Patiño__
 
 # Diseño de Instrumentos
 
-La metodología se diseñó para recopilar datos de 3 poblaciones i) Estudiantes de las Escuelas de Formación de Maestros (ESFM), ii) docentes en ejercicio de  escuelas públicas y privadas y iii) estudiantes de secundaria.
+La metodología se diseñó para recopilar datos de 3 poblaciones i) Estudiantes de las Escuelas de Formación de Maestros (ESFM), ii) docentes en ejercicio de escuelas públicas y privadas y iii) estudiantes de secundaria.
 
 El diseño sigue un proceso organizado y metodológico descrito en las siguientes partes:
 
 - __Planificación del proyecto en general:__ Elaboración del plan de trabajo, Diseño de cuestionario, desarrollo del sistema y el cuestionario digital, Elaboración de materiales de apoyo, planificación del cronograma y capacitación al personal de campo para la recolección de información.
 
-- __Recolección de información:__ Para el proceso de recolección de datos se empleó el método CAPI, entrevistas cara a cara con un dispositivo digital móvil (cuestionarios digitales) en campo y encuestas en fisico, auto suministradas para el caso de estudiantes de secundaria.
+- __Recolección de información:__ Para el proceso de recolección de datos se empleó el método CAPI, entrevistas cara a cara con un dispositivo digital móvil (cuestionarios digitales) en campo y encuestas en físico, auto suministradas para el caso de estudiantes de secundaria.
 
 - __Procesamiento:__ Se sistematiza el instrumento de captura y la información recolectada a través de cuestionarios digitales.
 - __Validación:__ Se realiza una verificación y validación de los datos.
@@ -41,7 +41,7 @@ El diseño sigue un proceso organizado y metodológico descrito en las siguiente
 - __Integración de la información:__ A través de la interacción de los informantes con el encuestador.
 
 # Desarrollo y participación ciudadana
-La población objeto de estudio comprende a: i) Estudiantes de las Escuelas de Formación de Maestros (ESFM), ii) Docentes en ejercicio de  escuelas públicas y privadas y iii) estudiantes de 5to y 6to de secundaria.
+La población objeto de estudio comprende a: i) Estudiantes de las Escuelas de Formación de Maestros (ESFM), ii) Docentes en ejercicio de escuelas públicas y privadas y iii) estudiantes de 5to y 6to de secundaria.
 
 # Información Técnica
 El estudio utiliza un enfoque mixto que implica el uso de técnicas estadísticas para el relevamiento
@@ -79,16 +79,15 @@ unidades educativas por departamento con los siguientes criterios por etapa.
 de quinto y sexto de secundaria y se selecciona un solo curso siguiendo una tabla
 aleatoria. Se realiza la entrevista a todos los estudiantes del curso seleccionado.
 
-  - __Rendimiento:__ Considerando un efecto de dise˜no de 2, para estimadores que alcancen un
-80% de dispersi´on relativa, con un nivel de confiabilidad del 95% se espera un error global
-de muestreo del 4.6 %.
+  - __Rendimiento:__ Considerando un efecto de diseño de 2, para estimadores que alcancen un
+80% de dispersión relativa, con un nivel de confiabilidad del 95% se espera un error global de muestreo del 4.6 %.
 
 - __Docentes en servicio__
 
 Los docentes en ejercicio fueron seleccionados de las mismas unidades educativas que fueron
 elegidas para la selección de estudiantes.
 
-En total se selecciono una muestra de 300 docentes en ejercicio(10 docentes por UE), esta muestra alcanza un error muestral global de 6.5% y a nivel de departamento de 11.3% bajo los mismos parámetros
+En total se seleccionó una muestra de 300 docentes en ejercicio (10 docentes por UE), esta muestra alcanza un error muestral global de 6.5% y a nivel de departamento de 11.3% bajo los mismos parámetros
 mencionados en el rendimiento de la muestra.
 
 - __Docentes en formación__
@@ -105,7 +104,7 @@ especialidad.
 
   - __Esquema de selección:__
   
-    - Primera etapa: Selección proporcional aal número de especialidades con las que cuenta la normal.
+    - Primera etapa: Selección proporcional al número de especialidades con las que cuenta la normal.
     - Segunda etapa: De forma aleatoria mediante una tabla aleatoria.
 	- Tercera etapa: De forma aleatoria mediante una tabla aleatoria.
 
@@ -122,17 +121,15 @@ en primera etapa.
 todos los cursos existentes de la especialidad y se selecciona un solo curso, utilizando
 una tabla aleatoria.
 
-  - __Rendimiento:__ Considerando un efecto de dise˜no de 2, para estimadores que alcancen un
-80% de dispersóon relativa, con un nivel de confiabilidad del 95% se espera un error global
+  - __Rendimiento:__ Considerando un efecto de diseño de 2, para estimadores que alcancen un
+80% de dispersión relativa, con un nivel de confiabilidad del 95% se espera un error global
 de muestreo del 6.3 %.
 
 ## Cuestionario
 
-Los instrumentos de relevamiento fueron dise˜nados por Fundación ARU, discutidos con los
-expertos de la Fundación Pati˜no y validados en una prueba piloto antes de su implementación
-en campo.
+Los instrumentos de relevamiento fueron diseñados por Fundación ARU, discutidos con los expertos de la Fundación Patiño y validados en una prueba piloto antes de su implementación en campo.
 
-Los cuestionarios  se componen de las siguientes secciones:
+Los cuestionarios se componen de las siguientes secciones:
 
 - __Cuestionario Docentes en Formación:__ 
 
@@ -181,23 +178,23 @@ Para la recolección de datos se consideró las siguientes etapas:
 
 Se realizó la prueba piloto del cuestionario durante una jornada, esto con el objetivo de medir la comprensión de los informantes a todas las preguntas del cuestionario, observar las categorías de respuesta y por último medir el tiempo de ejecución del cuestionario.
 
-La prueba piloto se realizó el 29 y 30 de abril de 2025 en la unidad educativa Walter Alpire Duran (publica,área urbana, municipio de El Alto) y la E.S.F.M. “Simón Bolivar”
+La prueba piloto se realizó el 29 y 30 de abril de 2025 en la unidad educativa Walter Alpire Duran (publica, área urbana, municipio de El Alto) y la E.S.F.M. “Simón Bolívar”
 
 ### Sensibilización y comunicación 
 
-Previa a la recolección de información, el equipo de Datos de Fundación ARU envio cartas, solicitando el permiso correspondiente, para que el personal de campo pueda realizar las encuestas a docentes y estudiantes en las unidades educativas seleccionadas en la muestra. Se enviaron  solicitudes a las siguientes entidades:
+Previa a la recolección de información, el equipo de Datos de Fundación ARU envió cartas, solicitando el permiso correspondiente, para que el personal de campo pueda realizar las encuestas a docentes y estudiantes en las unidades educativas seleccionadas en la muestra. Se enviaron solicitudes a las siguientes entidades:
   - Dirección Departamental de Educación (La Paz, Cochabamba y Santa Cruz).
   - Dirección Distrital de Educación.
   - Directores de Unidades Educativas.
 
 ### Reclutamiento
-Se realizó la convocatoria al personal itinerante con el que se trabaja, encuestadores con experiencia en recolección de datos con entrevistas cara a cara usando el método CAPI y encuestas autosuministradas en grupo, esto debido a la facilidad para el desplazamiento en campo y la oportunidad de presentar al informante un personal propio del lugar.
+Se realizó la convocatoria al personal itinerante con el que se trabaja, encuestadores con experiencia en recolección de datos con entrevistas cara a cara usando el método CAPI y encuestas auto suministradas en grupo, esto debido a la facilidad para el desplazamiento en campo y la oportunidad de presentar al informante un personal propio del lugar.
 
-- __Tipo de operativo__ Encuesta en campo con entrevistas cara a cara usando el método CAPI y encuestas autosunimistradas en grupo.
+- __Tipo de operativo__ Encuesta en campo con entrevistas cara a cara usando el método CAPI y encuestas auto suministradas en grupo.
 
-- __Población Objetivo__ Estudiantes, docentes de escuelas publicas y privadas y estudiantes dela ESFM en 3 departamentos del pais. 
+- __Población Objetivo__ Estudiantes, docentes de escuelas públicas y privadas y estudiantes dela ESFM en 3 departamentos del país. 
 
-- __Cobertura geográfica__  30 unidades educativas distribuidas en 24 municipios y 9 ESFM distribuidos en los departamentos de La Paz, Cochabamba y Santa Cruz.
+- __Cobertura geográfica__ 30 unidades educativas distribuidas en 24 municipios y 9 ESFM distribuidos en los departamentos de La Paz, Cochabamba y Santa Cruz.
 
 - __Cobertura temporal__ La recolección de información se realizó del 8 al 26 de mayo de 2025.
 
@@ -217,9 +214,9 @@ Se realizó la convocatoria al personal itinerante con el que se trabaja, encues
 
 - __Personal__ Se contó con un total de 20 personas en campo
 
-- __Unidad de Observación__ i) Estudiantes de las Escuelas de Formación de Maestros (ESFM), ii) Docentes en ejercicio de  escuelas públicas y privadas y iii) estudiantes de 5to y 6to de secundaria de escuela públicas y pribadas.
+- __Unidad de Observación__ i) Estudiantes de las Escuelas de Formación de Maestros (ESFM), ii) Docentes en ejercicio de escuelas públicas y privadas y iii) estudiantes de 5to y 6to de secundaria de escuela públicas y privadas.
 
-- __Tiempo de llenado del cuestionario__ i) Docentes en formacón 15 minutos, ii) Docentes en ejercicio 10 minutos y iii) Estudiantes de secundaria 15 minutos.
+- __Tiempo de llenado del cuestionario__ i) Docentes en formación 15 minutos, ii) Docentes en ejercicio 10 minutos y iii) Estudiantes de secundaria 15 minutos.
 
 - __Carga de trabajo__ 20 cuestionarios por día y por persona.
 
@@ -281,7 +278,7 @@ Adicionalmente a los documentos citados, se encuentran otros materiales del proy
 
 - Planillas de supervisión.
 - Listados de áreas con coordenadas de ubicación de unidades educativas y ESFEM.
-- Cartas de soliciud para la visita a unidades educativas y ESFEM.
+- Cartas de solicitud para la visita a unidades educativas y ESFEM.
 - Cartas de Presentación con la descripción del propósito de la encuesta.
 
 # Base de Datos
