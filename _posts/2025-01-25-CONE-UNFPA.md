@@ -75,16 +75,16 @@ Los formularios se conforman de las siguientes secciones:
   - __Sección 0:__ Identificación del informante. 
   - __Sección 1:__ Registro en los establecimiento de salud.
   
-<a href="/cuestionario/Boleta_CONEm_F2.pdf" download="Formulario_2.pdf" style="color:#54b2a9;"> Descargar Formulario<i class="fa fa-file-pdf-o"></i></a> 
+  <a href="/cuestionario/Boleta_CONEm_F2.pdf" download="Formulario_2.pdf" style="color:#54b2a9;"> Descargar Formulario<i class="fa fa-file-pdf-o"></i></a> 
  
 - __Formulario 3:__ Información estadística de servicios obstétricos y neonatales.
   
   - __Sección 0:__ Identificación del informante. 
   - __Sección 1:__ Estadística de servicios obstétricos y neonatales.
  
- <a href="/cuestionario/Boleta_CONEm_F3.pdf" download="Formulario_3.pdf" style="color:#54b2a9;"> Descargar Formulario<i class="fa fa-file-pdf-o"></i></a>
+  <a href="/cuestionario/Boleta_CONEm_F3.pdf" download="Formulario_3.pdf" style="color:#54b2a9;"> Descargar Formulario<i class="fa fa-file-pdf-o"></i></a>
  
- - __Formulario 4:__ Infraestructura Mobiliario y equipamiento en los establecimientos de salud.
+- __Formulario 4:__ Infraestructura Mobiliario y equipamiento en los establecimientos de salud.
   
   - __Sección 0:__ Identificación del informante en salas. 
   - __Sección 1:__ Equipo de ropa.
@@ -114,7 +114,7 @@ Los formularios se conforman de las siguientes secciones:
   
   <a href="/cuestionario/Boleta_CONEm_F4.pdf" download="Formulario_4.pdf" style="color:#54b2a9;"> Descargar Formulario<i class="fa fa-file-pdf-o"></i></a>
   
-   - __Formulario 5:__ Infraestructura, suministros y equipamiento en el laboratorio de los establecimientos de salud.
+- __Formulario 5:__ Infraestructura, suministros y equipamiento en el laboratorio de los establecimientos de salud.
   
   - __Sección 0:__ Identificación del informante. 
   - __Sección 1:__ Infraestructura y mobiliario en el laboratorio.
@@ -149,6 +149,7 @@ Los formularios se conforman de las siguientes secciones:
   - __Sección 12:__ Otros medicamentos.
   - __Sección 13:__ Vacunas.
   - __Sección 14:__ Anticonceptivos.
+  
   <a href="/cuestionario/Boleta_CONEm_F6.pdf" download="Formulario_6.pdf" style="color:#54b2a9;"> Descargar Formulario<i class="fa fa-file-pdf-o"></i></a>
   
 - __Formulario 7:__ Disponibilidad de recursos humanos y capacitación vinculada a CONE en el establecimiento de salud.
@@ -160,9 +161,7 @@ Los formularios se conforman de las siguientes secciones:
   - __Sección 4:__ Personal autorizado para proveer CONE y otros cuidados especiales.
   - __Sección 5:__ Horario disponible para emergencias obstétricas y neonatales de emergencia.
 
-  
-  
- <a href="/cuestionario/Boleta_CONEm_F7.pdf" download="Formulario_7.pdf" style="color:#54b2a9;"> Descargar Formulario<i class="fa fa-file-pdf-o"></i></a>
+  <a href="/cuestionario/Boleta_CONEm_F7.pdf" download="Formulario_7.pdf" style="color:#54b2a9;"> Descargar Formulario<i class="fa fa-file-pdf-o"></i></a>
 
 
 ## Recolección de datos 
@@ -175,7 +174,7 @@ Posterior a la digitalización de los instrumentos se procedió a realizar una p
 La prueba piloto se realizó en fecha 21 al 22 de octubre de 2024, el tiempo de duración fue una jornada y media (12 horas) para realizar ensayos y verificar la consistencia del sistema y de las preguntas al interior de los formularios.
 
 
-### Plan de comunicación
+### Sensibilización y comunicación 
 Previa a la actividad de recolección de datos se realizaron acciones de sensibilización en cada establecimiento de salud, solicitando el apoyo de los directores o responsables para la visita del personal y el llenado de los formularios digitales. El protocolo que se siguió fue:
 
   - Envió de la nota informativa del proyecto emitida por el Ministerio de Salud y Deporte, a las 9 SEDES del país.
