@@ -286,7 +286,9 @@ Adicionalmente a los documentos citados, se encuentran otros materiales del proy
 
 # Base de Datos
 
-- Base_Observatorio_KAS_BD.dta
+- BaseDocenteServicio_v3.xlsx
+- BaseDocenteFrmacion_v3.xlsx
+- BaseEsudiantesCol_v3.xlsx
 
 ## Política de acceso
 
