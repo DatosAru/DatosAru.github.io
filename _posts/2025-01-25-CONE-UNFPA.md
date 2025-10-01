@@ -1,5 +1,5 @@
 ---
-title: "DIAGNOSTICO DE CUIDADOS OBSTETRICOS Y NEONATALES EN EMERGENCIA"
+title: "Diagnóstico de Cuidados Obstétricos y Neonatales en Emergencia"
 layout: post
 category: Encuesta
 tags: [Salud, Emergencia, Neonatal]

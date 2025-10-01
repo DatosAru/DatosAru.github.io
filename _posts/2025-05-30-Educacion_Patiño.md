@@ -1,5 +1,5 @@
 ---
-title: "EL FUTURO DE LA EDUCACIÓN EN BOLIVIA"
+title: "El Futuro de la Educación en Bolivia"
 layout: post
 category: Encuesta
 tags: [Política, Democracia, Jóvenes]

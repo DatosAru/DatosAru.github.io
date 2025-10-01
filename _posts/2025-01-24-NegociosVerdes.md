@@ -1,5 +1,5 @@
 ---
-title: "ESTUDIO SOBRE MERCADO LABORAL Y COMPETENCIAS VERDES Y ENVERDECIDAS"
+title: "Estudio sobre Mercado Laboral y Competencias Verdes y Enverdecidas"
 layout: post
 category: Encuesta
 tags: [Mercado, Ambiental, Laboral]

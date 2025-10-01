@@ -1,5 +1,5 @@
 ---
-title: "ENCUESTA COMPORTAMIENTO POLÍTICO Y ACTITUDES DEMOCRÁTICAS EN JÓVENES"
+title: "Encuesta Comportamiento Político y Actitudes Democráticas en Jóvenes"
 layout: post
 category: Encuesta
 tags: [Política, Democracia, Jóvenes]

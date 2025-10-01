@@ -1,5 +1,5 @@
 ---
-title: "EXPERIENCIAS Y PERCEPCIONES SOBRE EL EMBARAZO ADOLESCENTE Y SUS CAUSAS"
+title: "Experiencias y Percepciones sobre el Embarazo Adolescente y sus causas"
 layout: post
 category: Encuesta
 tags: [Adolescente, Embarazo, Percepción]

@@ -1,9 +1,9 @@
 ---
-title: "Evaluación de medio término proyecto Mujeres de Bolivia, tus Derechos en el Presupuesto - 2022"
+title: "Encuesta de medición final de los tres índices compuestos del proyecto Mujeres de Bolivia - tus derechos en el presupuesto"
 layout: post
 category: Encuesta
-tags: [Evaluación, Presupuesto, Género]
-excerpt: "El presente documento describe el proceso de relevamiento de información cuantitativa y cualitativa ejecutadas para realizar la evaluación de medio término del proyecto Mujeres de Bolivia, tus Derechos en el Presupuesto."
+tags: [Presupuesto, Derechos, Género]
+excerpt: "EL estudio busca medir los avances del proyecto a través de la evaluación final de los índices de: empoderamiento de las mujeres, ejercicio de sus derechos, y resistencia de los hombres frente al cumplimiento de los derechos de las mujeres."
 
 ---
 # Información General
