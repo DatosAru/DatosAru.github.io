@@ -60,6 +60,7 @@ El estudio empleo los datos presentados sobre el UNIVERSO DEL PROYECTO Y MUESTRA
 - __Método de recolección__
 
   - Poblaciones en Unidades Educativas: Muestra aleatoria de UE.
+  
   – Otras poblaciones: Se opta por una muestra aleatoria con base en los registros existentes.
 
 - __Representatividad__
