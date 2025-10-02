@@ -66,10 +66,9 @@ El estudio empleo los datos presentados sobre el UNIVERSO DEL PROYECTO Y MUESTRA
 
 - __Representatividad__
 
-  –	Poblaciones en Unidades Educativas: Error muestral global del 2.6%, se considera un efecto de diseño del 5.6, confiabilidad del 95%, para indicadores que alcanzan errores relativos inferiores a 0.2.
+  - Poblaciones en Unidades Educativas: Error muestral global del 2.6%, se considera un efecto de diseño del 5.6, confiabilidad del 95%, para indicadores que alcanzan errores relativos inferiores a 0.2.
   
-  –	Otras poblaciones: Error muestral global del 2.6%, confiabilidad del 95%, para indicadores que alcanzan errores relativos inferiores a 0.2.
-
+  - Otras poblaciones: Error muestral global del 2.6%, confiabilidad del 95%, para indicadores que alcanzan errores relativos inferiores a 0.2.
  
 - __Técnica de recolección__
  
