@@ -156,12 +156,15 @@ __Personal:__ Se contó  3 supervisores y un equipo de 6 encuestadores.
 
 __Unidad de Observación:__ 
 
-  - __Población en Unidades Educativas
+  - __Población en Unidades Educativas__
+  
     - Estudiantes (hombres y mujeres) de 5to y 6to de secundaria
 	- Directores/as de Unidades educativas del nivel secundario.
 	- Docentes (hombres y mujeres) de UE del nivel secundario.
 	- padres de familia del nivel secundario.
-  - __Otras poblaciones
+	
+  - __Otras poblaciones__
+  
     - Mujeres participantes de Organizaciones de Jóvenes Mixtas
 	- Mujeres participantes de Diplomado de Teoría Feminista
 	- Mujeres participantes de las Escuelas Itinerantes.
