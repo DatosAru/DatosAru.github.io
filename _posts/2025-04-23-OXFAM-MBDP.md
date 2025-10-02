@@ -59,23 +59,24 @@ El estudio empleo los datos presentados sobre el UNIVERSO DEL PROYECTO Y MUESTRA
 
 - __Método de recolección__
   - Poblaciones en Unidades Educativas: Muestra aleatoria de UE.
+  
   – Otras poblaciones: Se opta por una muestra aleatoria con base en los registros existentes.
 
 - __Representatividad__
- 
   –	Poblaciones en Unidades Educativas: Error muestral global del 2.6%, se considera un efecto de diseño del 5.6, confiabilidad del 95%, para indicadores que alcanzan errores relativos inferiores a 0.2.
+  
   –	Otras poblaciones: Error muestral global del 2.6%, confiabilidad del 95%, para indicadores que alcanzan errores relativos inferiores a 0.2.
 
  
  - __Técnica de recolección__
- 
   –	Poblaciones en Unidades Educativas: Visita a la UE, con encuestas cara a cara para docente , directores y padres de familia, encuestas auto suministradas guiadas en grupo para el caso de estudiantes.
+  
   –	Otras poblaciones: En orden de factibilidad, i) entrevistas cara a cara (CAPI), ii) mediante llamada telefónica (CATI) ó iiI) mediante formulario digital (CAWI).
 
  
 - __Tamaño de la muestra__
-
   –	Poblaciones en Unidades Educativas: 4 unidades educativas por municipio, 2 beneficiarias y 2 de comparación. Se espera una muestra mínima en las UE beneficiarias de 347 mujeres, 347 hombres, 14 directores, 28 profesores y 28 representantes de padres de familia.
+  
   –	Otras poblaciones: Se espera una muestra mínima de 205.
 
 ## Cuestionario
