@@ -69,9 +69,9 @@ El estudio empleo los datos presentados sobre el UNIVERSO DEL PROYECTO Y MUESTRA
 
  
  - __Técnica de recolección__
-   –	Poblaciones en Unidades Educativas: Visita a la UE, con encuestas cara a cara para docente , directores y padres de familia, encuestas auto suministradas guiadas en grupo para el caso de estudiantes.
+   – Poblaciones en Unidades Educativas: Visita a la UE, con encuestas cara a cara para docente , directores y padres de familia, encuestas auto suministradas guiadas en grupo para el caso de estudiantes.
   
-   –	Otras poblaciones: En orden de factibilidad, i) entrevistas cara a cara (CAPI), ii) mediante llamada telefónica (CATI) ó iiI) mediante formulario digital (CAWI).
+   – Otras poblaciones: En orden de factibilidad, i) entrevistas cara a cara (CAPI), ii) mediante llamada telefónica (CATI) ó iiI) mediante formulario digital (CAWI).
 
  
 - __Tamaño de la muestra__
