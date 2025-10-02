@@ -60,7 +60,6 @@ El estudio empleo los datos presentados sobre el UNIVERSO DEL PROYECTO Y MUESTRA
 - __Método de recolección__
 
   - Poblaciones en Unidades Educativas: Muestra aleatoria de UE.
-  
   – Otras poblaciones: Se opta por una muestra aleatoria con base en los registros existentes.
 
 - __Representatividad__
@@ -106,7 +105,7 @@ Los cuestionarios cuentan con las siguientes secciones:
 
   - __Sección 2:__ Empoderamiento y género
   
-  - __Sección 3:__Derechos.
+  - __Sección 3:__ Derechos.
 
 <a href="/cuestionario/Boleta_OXFAM_Empoderamiento2025.pdf" download="Cuestionario_Empoderamiento2025.pdf" style="color:#54b2a9;"> Descargar Cuestionario <i class="fa fa-file-pdf-o"></i></a>
 
