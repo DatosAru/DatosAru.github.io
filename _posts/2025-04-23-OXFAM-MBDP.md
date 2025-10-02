@@ -61,7 +61,7 @@ El estudio empleo los datos presentados sobre el UNIVERSO DEL PROYECTO Y MUESTRA
 
   - Poblaciones en Unidades Educativas: Muestra aleatoria de UE.
   
-    - Poblaciones en Unidades Educativas: Muestra aleatoria de UE.
+  - Otras poblaciones: Se opta por una muestra aleatoria con base en los registros existentes.
   
   – Otras poblaciones: Se opta por una muestra aleatoria con base en los registros existentes.
 
