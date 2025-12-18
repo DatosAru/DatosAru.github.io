@@ -82,14 +82,14 @@ Los instrumentos de relevamiento fueron diseñados por Fundación ARU, discutido
 Los cuestionarios se componen de las siguientes secciones:
 
   - __Sección 0:__ Identificación Centro de salud.
-  - __Sección 2:__ Información General
-  - __Sección 3:__ Evaluación del servicio médico y las instalaciones.
+  - __Sección 1:__ Información General
+  - __Sección 2:__ Evaluación del servicio médico y las instalaciones.
     - __A:__ Confiabilidad
 	- __B:__ Capacidad de respuesta
 	- __C:__ Accesibilidad
 	- __D:__ Infraestructura
 	- __E:__ Seguridad
-  - __Sección 4:__ Opiniones.
+  - __Sección 3:__ Opiniones.
     - __A:__ Satisfacción. 
     - __B:__ Aspectos satisfactorios y aspectos a mejorar
     - __C:__ Intención de uso futuro del servicio
