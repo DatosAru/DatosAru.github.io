@@ -169,12 +169,12 @@ Para el proceso de datos, se utiliza la modalidad del Sistema de Información ba
 ## Indicadores del Proyecto
 En el proyecto se priorizan los siguientes grupos de indicadores:
 
-    - Descriptivos
-    - Confiabilidad
-	- Capacidad de respuesta
-	- Accesibilidad
-	- Infraestructura
-	- Seguridad
+- Descriptivos
+- Confiabilidad
+- Capacidad de respuesta
+- Accesibilidad
+- Infraestructura
+- Seguridad
  
 # Documentación
 
