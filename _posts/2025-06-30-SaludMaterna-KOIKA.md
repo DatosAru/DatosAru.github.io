@@ -8,7 +8,7 @@ excerpt: "El estudio busca evaluar la satisfacción de los pacientes con el uso 
 
 # Información General
 
-Medir la satisfacción del paciente es crucial y considerado un indicador clave de la calidad asistencial que va a permitir identificar fortalezas y debilidades en los servicios (personal, comunicación, instalaciones, etc), esta medición impulsara a la mejora continua, fomentara la confianza y fidelidad de los pacientes, ademas de orientar la toma de decisiones para alinear los servicios con las necesidades y expectativas reales del usuario, en consecuencia se obtendran mejores resultandos de salud y una atención  más eficiente y humana en el futuro.
+Medir la satisfacción del paciente es crucial y considerado un indicador clave de la calidad asistencial que va a permitir identificar fortalezas y debilidades en los servicios (personal, comunicación, instalaciones, etc.), esta medición impulsara a la mejora continua, fomentara la confianza y fidelidad de los pacientes, además de orientar la toma de decisiones para alinear los servicios con las necesidades y expectativas reales del usuario, en consecuencia se obtendrán mejores resultandos de salud y una atención  más eficiente y humana en el futuro.
 
 
 - __Referencia: Unidad de Micro Datos y Encuestas__
@@ -17,7 +17,7 @@ Medir la satisfacción del paciente es crucial y considerado un indicador clave 
 
 - __País: Bolivia__
 
-- __Fuente: Usuarias de los servicios de salud materna.__
+- __Fuente: Usuarias de los servicios de salud materna__
 
 - __Patrocinador(es): Corporación HYUNDAIASAN__
 
@@ -38,21 +38,19 @@ El diseño sigue un proceso organizado y metodológico descrito en las siguiente
 - __Integración de la información:__ A través de la interacción de los informantes con el encuestador.
 
 # Desarrollo y participación ciudadana
-Usuarias de los servicios de salud materna que han utilizado los servicios(atención prenatal, trabajo de parto y parto, atención postnatal) en el centro de salud integrado durante el último año.
+Usuarias de los servicios de salud materna que han utilizado los servicios (atención prenatal, trabajo de parto y parto, atención postnatal) en el centro de salud integrado durante el último año.
 
 # Información Técnica
-El estudio tiene un carácter descriptivo que nos permitira identificar los motivos de asistencia a los centros de salud, las expectativas de los servicios y los factores de satisfacción e insatisfacción, especialmente entre las mujeres en edad fértil , con el fin de recabar información práctica para mejorar la calidad de los servicios en el futuro.
+El estudio tiene un carácter descriptivo que nos permitirá identificar los motivos de asistencia a los centros de salud, las expectativas de los servicios y los factores de satisfacción e insatisfacción, especialmente entre las mujeres en edad fértil, con el fin de recabar información práctica para mejorar la calidad de los servicios en el futuro.
 
 ## Diseño muestral
-Para el estudio la entidad financiadora definio el tamaño y distribucion de la muestra. 
+Para el estudio la entidad financiadora definió el tamaño y distribución de la muestra. 
 
-  - __Marco muestral:__ Usuarios de 8 centros de salud pertenecientes a 2 redes de salud del muicipio de eEl Alto.
+  - __Marco muestral:__ Usuarios de 8 centros de salud pertenecientes a 2 redes de salud del municipio de El Alto.
 
   - __Dominios de estudio:__ Centro de Salud.
+  - __Tamaño de muestra:__ La muestra esperada de mujeres usuarias del servicio de salud materna, mujeres en edad fértil (15 a 49 años) fue de 334 mujeres; la muestra de usuarios de medicina general fue de 86.
 
-  - __Estratificación:__ Solo para la ultima etapa. Se definen dos niveles explícitos de estratificación: Usuarias del servicios de salud materna, mujeres en edad fertil y usuarios de medicina general.
-
-  - __Tamaño de muestra:__ La muestra esperada de mujeres usuarias del servicio de salud materna, mujeres en edad fertil(15 a 49 años) fue de 334 mujeres; la muestra de usuarios de medicina general fue de 86.
   
 | Red               | Centro de Salud    | Mujestra mujeres | Muestra usuarios | 
 |                   |                    |  en edad fértil  | medicina general | 
@@ -85,14 +83,14 @@ Los cuestionarios se componen de las siguientes secciones:
 
   - __Sección 0:__ Identificación Centro de salud.
   - __Sección 2:__ Información General
-  - __Sección 3:__ Evaluación del servicio medico y las instalaciones.
+  - __Sección 3:__ Evaluación del servicio médico y las instalaciones.
     - __A:__ Confiabilidad
 	- __B:__ Capacidad de respuesta
 	- __C:__ Accesibilidad
 	- __D:__ Infraestructura
 	- __E:__ Seguridad
   - __Sección 4:__ Opiniones.
-    - __A:__ SatisfAcción. 
+    - __A:__ Satisfacción. 
     - __B:__ Aspectos satisfactorios y aspectos a mejorar
     - __C:__ Intención de uso futuro del servicio
     - __D:__ Intención de recomendación del servicio
@@ -112,10 +110,10 @@ La prueba piloto se realizó el 2 de junio de 2025 en el Centro de Salud Santiag
 
 ### Sensibilización y comunicación 
 
-En colaboracion de la Coorporacion HIUNDAIASAN se coordina las visitas a los centros de salud. 
+En colaboración de la Corporación HIUNDAIASAN se coordina las visitas a los centros de salud. 
 
 ### Reclutamiento
-Se realizó la convocatoria al personal itinerante con el que se trabaja en el municipio de El Alto, encuestadores con experiencia en recolección de datos con entrevistas cara a cara usando el método CAPI,esto debido a la facilidad para el desplazamiento en campo y la oportunidad de presentar al informante un personal propio del lugar.
+Se realizó la convocatoria al personal itinerante con el que se trabaja en el municipio de El Alto, encuestadores con experiencia en recolección de datos con entrevistas cara a cara usando el método CAPI, esto debido a la facilidad para el desplazamiento en campo y la oportunidad de presentar al informante un personal propio del lugar.
 
 - __Tipo de operativo__ Encuesta en campo con entrevistas cara a cara usando el método CAPI.
 
@@ -134,16 +132,16 @@ Se realizó la convocatoria al personal itinerante con el que se trabaja en el m
 
 - __Personal__ Se contó con un total de 4 personas en campo
 
-- __Unidad de Observación__ i) Usuarias de servicios de salud materna, mujeres en edad fértil de entre 15 y 49 años que han utilizado uno o más de los siguientes servicios de salud materna: atención prenatal, trabajo de parto o atención postnatal y ii) Usuarios de medicina general, pacientes que accedieron a atención ambulatoria general distinta de la salud materna en un centro de salud integrado
+- __Unidad de Observación__ i) Usuarias de servicios de salud materna, mujeres en edad fértil de entre 15 y 49 años que han utilizado uno o más de los siguientes servicios de salud materna: atención prenatal, trabajo de parto o atención postnatal y ii) Usuarios de medicina general, pacientes que accedieron a atención ambulatoria general, distinta de la salud materna en un centro de salud integrado
 
-- __Tiempo de llenado del cuestionario__ i)  16 minutos en promedio.
+- __Tiempo de llenado del cuestionario__  16 minutos en promedio.
 
 - __Carga de trabajo__ no definido.
 
 - __Tipo de trabajo__ Remunerado.
 
 ### Capacitación 
-La capacitación del personal de campo se realizó durante 1 jornada de  6 horas, la capacitación estaba orientada al aprendizaje y manejo de los cuestionarios físicos, el aprendizaje del sistema, cuestionarios digitales en dispositivos móviles, el plan de visita a los centros de salud  y practica del llenado de las boletas digitales.
+La capacitación del personal de campo se realizó durante 1 jornada de 6 horas, la capacitación estaba orientada al aprendizaje y manejo de los cuestionarios físicos, el aprendizaje del sistema, cuestionarios digitales en dispositivos móviles, el plan de visita a los centros de salud y practica del llenado de las boletas digitales.
 
 ### Organización de campo y funciones
 
@@ -198,7 +196,7 @@ Adicionalmente a los documentos citados, se encuentran otros materiales del proy
 
 - Planillas de supervisión.
 - Listados de Centros de salud.
-- Cartas de concentimiento informado para los informantes.
+- Cartas de consentimiento informado para los informantes.
 
 # Base de Datos
 
